@@ -19,7 +19,7 @@ function setup() {
     //console.log(message);
     let id = message.id;
     let speed = message.data.speed;
-    let charToAdd = message.data.add;
+    let charToAdd = message.data.char;
 
     // New user
     if (!(id in users)) {
@@ -73,7 +73,7 @@ function draw() {
     let user = users[id];
     let txt = user.text;
     let pos = user.pos;
-    let speed = user.speed;
+    let speed = pow(5000/user.speed, .75);
     textSize(speed * 5000);
     text(txt, pos.x, pos.y);
   }

@@ -33,26 +33,28 @@
    * Tech Tutorials
       * Setting up you local development environment
       * CLI - Command Line Interface
-      * [Atom Editor](https://github.com/mimiyin/sense-me-move-me/wiki/Atom) and [Atom Live Server Package](https://atom.io/packages/atom-live-server)
-      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+      * [Atom Editor](https://github.com/mimiyin/collective-play-s19/wiki/Atom-Editor)
       * [Node Server](https://nodejs.org/en/)
-   * Code Examples
-      * Sending real-time inputs: mouse + keyboard, phone sensors, mic level
-      * Sending inputs with a username
-      * Keeping track of inputs by id
-      * Separating inputs and outputs with namespaces
-      * Normalizing data across clients
-  * Resources
+  * Additional Resources
      * [explainshell.com](https://explainshell.com/explain?cmd=ls+-lah+file.ext): Shell commands deconstructed.
      * [Shiffman: Node](http://shiffman.net/a2z/server-node/)
      * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
+     * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
      * [Socket.IO - Emit cheatsheet](https://socket.io/docs/emit-cheatsheet/)
      * [Mozilla Developers Network](https://developer.mozilla.org/en-US/)
+  * Videos
+     * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
+  * Code Examples
+     * Sending real-time inputs: mouse + keyboard, phone sensors, mic level
+     * Sending inputs with a username
+     * Keeping track of inputs by id
+     * Separating inputs and outputs with namespaces
+     * Normalizing data across clients
 
 #### Assignment: Hello World
    * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1b9LKOaFIROEpqssoxWhezXpO-kd9_njg_i2XblIOiFQ/edit#gid=0)
-   * Sign-up to implement 2 inputs.
+   * Sign-up to implement 2 inputs. Implement 2 inputs.
    * Bring 5 things to draw with next week.
    * Wear clothes you can get dirty...forever.
 
@@ -69,13 +71,16 @@
    * Exercise: Collective Drawing
    * Collecting the next layer of input (ie. meta-data)
    * Code Examples:
+      * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/HyNmKKL4f)
       * Pollacky
       * Texteoke
       * Finger Drumming
    * Links
+      * [Install Sensor Kinetics][iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
       * [How to paint like Jackson Pollack](https://www.youtube.com/watch?v=EncR_T0faKM&t=40s)
       * [Laura Krudener](https://www.youtube.com/watch?v=X13bHWaP40Y)
-      * [Paper by fiftythree](https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8)
+      * [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+      * [Glitch.com](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Express yourself
    * Re-work your hello world example to be more expressive
    * Please bring ear-bud headphones for your mobile device to class next week.
@@ -246,4 +251,3 @@ Your health and safety are a priority at NYU. If you experience any health or me
 ## Statement on use of Electronic Devices
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless
-

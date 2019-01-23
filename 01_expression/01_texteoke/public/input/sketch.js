@@ -42,8 +42,8 @@ function keyTyped() {
 
   // Send key typed and speed
   let message = {
-    add: key,
-    speed: pow(1/(now - lastChange), .75)
+    char: key,
+    speed: now - lastChange
   }
   socket.emit('add', message);
 

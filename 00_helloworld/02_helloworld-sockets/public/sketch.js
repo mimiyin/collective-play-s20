@@ -1,6 +1,7 @@
 // Open and connect socket
 let socket = io();
 
+
 function setup(){
   createCanvas(windowWidth, windowHeight);
   background(255);
@@ -28,5 +29,3 @@ function drawPos(pos) {
   fill(0);
   ellipse(pos.x, pos.y, 10, 10);
 }
-
-
