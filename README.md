@@ -53,7 +53,7 @@
      * Normalizing data across clients
 
 #### Assignment: Hello World
-   * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1b9LKOaFIROEpqssoxWhezXpO-kd9_njg_i2XblIOiFQ/edit#gid=0)
+   * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1bEKzoevEpd8jgmHKU1we4AnMbRwMLGCD5YFSZvY37is/edit?usp=sharing)
    * Sign-up to implement 2 inputs. Implement 2 inputs.
    * Bring 5 things to draw with next week.
    * Wear clothes you can get dirty...forever.
