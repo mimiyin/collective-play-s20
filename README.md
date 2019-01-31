@@ -14,8 +14,7 @@
 
 ## Tools
    * [p5.js](http://p5js.org/) | [Reference](http://p5js.org/reference/) | [Web Editor](http://alpha.editor.p5js.org/)
-   * [Atom Editor](https://github.com/mimiyin/sense-me-move-me/wiki/Atom)
-   * [Atom Live Server Package](https://atom.io/packages/atom-live-server)
+   * [Atom Editor](https://github.com/mimiyin/collective-play-s19/wiki/Atom-Editor)
    * [Node Server](https://nodejs.org/en/)
 
 # Design Strategy 1: Every man for himself
