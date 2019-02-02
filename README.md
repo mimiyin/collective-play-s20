@@ -4,7 +4,7 @@
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
    * [Spring 2018 Repository](https://github.com/mimiyin/collective-play-s18)
 
-### [See course description below.](https://github.com/mimiyin/collective-play-s18/blob/master/README.md#course-description)
+### [See course description below.](https://github.com/mimiyin/collective-play-s19#course-description)
 
 ## Resources
    * Class Google Group. I will be adding you after the first class.
@@ -13,7 +13,7 @@
    * Most code examples will also be available in the p5 web editor.
 
 ## Tools
-   * [p5.js](http://p5js.org/) | [Reference](http://p5js.org/reference/) | [Web Editor](http://alpha.editor.p5js.org/)
+   * [p5.js](http://p5js.org/) | [Reference](http://p5js.org/reference/) | [Web Editor](https://editor.p5js.org/)
    * [Atom Editor](https://github.com/mimiyin/collective-play-s19/wiki/Atom-Editor)
    * [Node Server](https://nodejs.org/en/)
 
