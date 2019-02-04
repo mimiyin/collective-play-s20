@@ -81,7 +81,8 @@
       * [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
       * [Glitch.com](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Express yourself
-   * Re-work your hello world example to be more expressive
+   * Try your hand at diagramming the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class. 
+   * Re-work one of your hello world input examples to have a more expressive output
    * Please bring ear-bud headphones for your mobile device to class next week.
 
 ***
