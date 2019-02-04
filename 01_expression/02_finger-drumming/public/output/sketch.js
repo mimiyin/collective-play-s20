@@ -43,8 +43,12 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  let canvas = createCanvas(windowWidth, windowHeight);
   background(255);
+  //Click on the canvas so the sound can play
+  //See Google Chrome's audio policy now disallows auto-playing media without user interaction
+  //https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
+  canvas.elt.click();
 
   // Listen for message from server
   socket.on('message', function (message) {
