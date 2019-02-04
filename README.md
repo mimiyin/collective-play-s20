@@ -71,6 +71,7 @@
    * Collecting the next layer of input (ie. meta-data)
    * Code Examples:
       * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/HyNmKKL4f)
+      * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
       * Pollacky
       * Texteoke
       * Finger Drumming
@@ -79,7 +80,6 @@
       * [How to paint like Jackson Pollack](https://www.youtube.com/watch?v=EncR_T0faKM&t=40s)
       * [Laura Krudener](https://www.youtube.com/watch?v=X13bHWaP40Y)
       * [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
-      * [Glitch.com](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Express yourself
    * Try your hand at diagramming the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class. 
    * Re-work one of your hello world input examples to have a more expressive output
