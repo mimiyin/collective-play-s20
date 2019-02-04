@@ -76,7 +76,7 @@
       * Texteoke
       * Finger Drumming
    * Links
-      * [Install Sensor Kinetics][iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
+      * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
       * [How to paint like Jackson Pollack](https://www.youtube.com/watch?v=EncR_T0faKM&t=40s)
       * [Laura Krudener](https://www.youtube.com/watch?v=X13bHWaP40Y)
       * [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
