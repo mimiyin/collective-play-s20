@@ -70,7 +70,7 @@
    * Exercise: Collective Drawing
    * Collecting the next layer of input (ie. meta-data)
    * Code Examples:
-      * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/HyNmKKL4f)
+      * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z): Press mouse to cycle through 4 modes.
       * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
       * Pollacky
       * Texteoke
