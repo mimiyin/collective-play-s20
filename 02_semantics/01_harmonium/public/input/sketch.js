@@ -17,19 +17,22 @@ let amp = 0;
 // Length of diag of screen
 let diag = 0;
 
-// Load sound sample for playing note
-// This is a hack because iOS WebKit
-// doesn't support oscillators
-function preload() {
-  note = loadSound('triangle.wav');
-}
+// BASE frequency
+let BASE = 220;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  let cnv = createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
   textAlign(CENTER, CENTER);
   rectMode(CENTER);
   strokeCap(PROJECT);
+
+  // Create note
+  note = new p5.Oscillator();
+  note.setType('sine');
+  note.freq(BASE);
+  note.amp(1);
+  note.start();
 
   // Calculate length of diagonal of screen
   diag = sqrt(sq(width) + sq(height));
@@ -50,10 +53,10 @@ function setup() {
   socket.on('disconnected', function(id){
     delete users[id];
   });
+}
 
-  // Loop note, mute
-  note.loop();
-  note.setVolume(0);
+function touchStarted(){
+  getAudioContext().resume();
 }
 
 function draw() {
@@ -113,11 +116,10 @@ function draw() {
   // Scale rotationZ to frequency of note
   if (abs(rotationZ - pRotationZ) < 1) {
     let freq = map(rotationZ, 0, 360, 1, 2);
-    note.rate(freq);
-    note.setVolume(amp);
+    note.freq(BASE*freq);
     amp += 0.001;
     amp = constrain(amp, 0, 5);
-    note.setVolume(amp);
+    note.amp(amp);
   }
   // Otherwise, fade out if you're moving fast
   else {

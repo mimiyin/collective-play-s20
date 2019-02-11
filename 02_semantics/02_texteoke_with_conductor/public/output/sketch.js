@@ -14,6 +14,10 @@ function setup() {
   background(255);
   textAlign(CENTER, CENTER);
 
+  select("#conductor").input(function(){
+    socket.emit('conduct', this.value());
+  });
+
   // Listen for add message from server
   socket.on('add', function (message) {
     //console.log(message);

@@ -11,6 +11,9 @@ let users = {};
 // Length of diag of screen
 let diag = 0;
 
+// Set base frequency
+let BASE = 220;
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
@@ -28,7 +31,7 @@ function setup() {
     let rot = message.data;
 
     // Map note frequency to rotation data
-    let freq = map(rot, 0, 360, base, 2 * base);
+    let freq = map(rot, 0, 360, 1, 2);
 
     // New user
     if (!(id in users)) {
@@ -39,7 +42,7 @@ function setup() {
       }
 
       // Create a triangle wave
-      users[id].note.setType('triangle');
+      users[id].note.setType('sine');
       users[id].note.start();
     }
     // If there's been no movement, fade in
@@ -56,7 +59,7 @@ function setup() {
     // Update rotationZ
     users[id].rot = rot;
     // Update note
-    users[id].note.freq(freq);
+    users[id].note.freq(freq*BASE);
   });
 
   // Remove disconnected users
@@ -65,6 +68,12 @@ function setup() {
     users[id].note.amp(0);
     delete users[id];
   });
+
+}
+
+// Turn on sound on keypress
+function keyPressed(){
+  getAudioContext().resume();
 }
 
 function draw() {

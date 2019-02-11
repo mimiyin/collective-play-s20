@@ -69,6 +69,8 @@ function setup() {
 // Scale strokeweight to speed
 function drip(ppos, pos, speed) {
   stroke(0);
+  // Take whichever is smaller, 10 or 5/speed
+  // A way to bottom out at 10-pixel sw
   let sw = min(10, 5/speed);
   strokeWeight(sw);
   line(ppos.x, ppos.y, pos.x, pos.y);

@@ -97,7 +97,12 @@
    * Exercises:
       * Tableau
    * Setting up a semantic framework.
-
+   * Resources:
+      * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+      * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
+      * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+      * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
+      * [Glitch.com Hello World Sockets](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Say what you mean
    * Groups of 3: Create a semantic framework for 1 of your expressive outputs.
 
