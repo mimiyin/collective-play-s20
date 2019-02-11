@@ -42,13 +42,13 @@ function preload() {
   }
 }
 
+function keyPressed(){
+  getAudioContext().resume();
+}
+
 function setup() {
-  let canvas = createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight);
   background(255);
-  //Click on the canvas so the sound can play
-  //See Google Chrome's audio policy now disallows auto-playing media without user interaction
-  //https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
-  canvas.elt.click();
 
   // Listen for message from server
   socket.on('message', function (message) {
@@ -98,7 +98,7 @@ function draw() {
       // Scale volume of beat to force of drumming
       // Non-linear mapping of force --> volume
       // Google x^3 to see graph
-      let vol = pow(force, 3);
+      let vol = pow(force, 3) + 0.005;
       vol = max(0, vol);
       text('f:' + nfs(force, 0, 3), x, y+100);
       text('v:' + nfs(vol, 0, 3), x, y+120);

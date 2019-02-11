@@ -81,7 +81,7 @@
       * [Laura Krudener](https://www.youtube.com/watch?v=X13bHWaP40Y)
       * [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
 #### Assignment: Express yourself
-   * Try your hand at diagramming the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class. 
+   * Try your hand at diagramming the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class.
    * Re-work one of your hello world input examples to have a more expressive output
    * Please bring ear-bud headphones for your mobile device to class next week.
 
@@ -93,17 +93,13 @@
    * Semantics is the study of the meaning of words or lexical meaning. What about non-lexical semantics?
 
 #### In-Class
-   * Setting up a semantic framework.
+   * Review expression examples
    * Exercises:
       * Tableau
-      * Cheering Track
-   * [Pauline Oliveros: Tuning Meditation](https://youtu.be/g5bj8sO2-WY?t=28) | [Arpeggio](https://youtu.be/g5bj8sO2-WY?t=55) | [About](https://www.metmuseum.org/press/news/2017/tuning-meditation)
-   * Code Example:
-      * Harmonium: [Glitch](https://glitch.com/edit/#!/harmonium?path=server.js:1:0)
+   * Setting up a semantic framework.
 
 #### Assignment: Say what you mean
-   * [Group Assignments](https://docs.google.com/spreadsheets/d/1S9QClmuv5jk1pGdfEqdGwBLwzDx6OZKRWb1SOjbBFxc/edit?usp=sharing)
-   * Groups of 4: Create a semantic framework for 1 of your expressive projects.
+   * Groups of 3: Create a semantic framework for 1 of your expressive outputs.
 
 ***
 ## Week 4: User-test / Crit Semantic Expression Assignment
