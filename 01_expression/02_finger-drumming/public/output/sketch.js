@@ -42,8 +42,11 @@ function preload() {
   }
 }
 
+// Press a key to enable audio
 function keyPressed(){
   getAudioContext().resume();
+  // Remove instructions
+  select('#key-press').remove();
 }
 
 function setup() {
