@@ -104,7 +104,9 @@
       * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
       * [Glitch.com Hello World Sockets](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Say what you mean
-   * Groups of 3: Create a semantic framework for 1 of your expressive outputs.
+   * Groups of 3: Create a project for 3 people that has a clear semantic framework.
+   * [Questions to keep in mind.]
+   * [Post a link to your project here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
 
 ***
 ## Week 4: User-test / Crit Semantic Expression Assignment
