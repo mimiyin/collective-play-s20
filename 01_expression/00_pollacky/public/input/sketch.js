@@ -51,9 +51,6 @@ function draw(){
 // Calculate size of shake
 // Send data
 function deviceShaken() {
-  let blopSz = abs(accelerationX-pAccelerationX) + abs(accelerationY-pAccelerationY);
-  socket.emit('shake', blopSz);
+  let force = abs(accelerationX-pAccelerationX) + abs(accelerationY-pAccelerationY);
+  socket.emit('shake', force);
 }
-
-
-

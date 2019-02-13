@@ -90,8 +90,7 @@ function draw() {
   // Play beats for each user
   stroke(0, 200);
   fill(0, 200);
-  for (let id in users) {
-    let user = users[id];
+  for (let user of users) {
     let beat = user.beat;
     let force = user.force;
     let sample = user.sample;
