@@ -105,7 +105,7 @@
       * [Glitch.com Hello World Sockets](https://glitch.com/edit/#!/hello-world-sockets)
 #### Assignment: Say what you mean
    * Groups of 3: Create a project for 3 people that has a clear semantic framework.
-   * [Questions to keep in mind.]
+   * [Questions to keep in mind.](https://github.com/mimiyin/collective-play-s19/wiki/Questions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
 
 ***
