@@ -110,16 +110,15 @@
 
 ***
 ## Week 4: User-test / Crit Semantic Expression Assignment
-   * [Place Neurons](http://www.radiolab.org/story/110165-you-are-here/)
 #### Preview Partnering??
    * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
 #### Assignment: Post-Mortem
-   * [Fill out this worksheet.](https://docs.google.com/spreadsheets/d/1b_OyJnZx2k3Av_7GnWv2OKqqDUg_p_0GZZV-BM3Zxx0/edit?usp=sharing) Each team has a tab.
+   * [Fill out this worksheet.](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit?usp=sharing) Each team has a tab. Access with your NYU account.
    * What worked.
    * What didn't work.
    * Any surprises?
-   * What could you have done differently? And what effect would it have had?
-   * Iterate on your design with 1 simple change.
+   * What could you have done differently? And what effect might it have had?
+   * What turned out to be the most interesting inter-personal dynamic in your project? (e.g. trolling, feeling left out) How could you explore that further?
 
 ***
 ***
