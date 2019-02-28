@@ -19,6 +19,7 @@ function setup() {
 
   // Listen for texts from partners
   socket.on('text', function (data) {
+    console.log(data);
     display(data);
   });
 
@@ -33,7 +34,7 @@ function setup() {
 function display(txt) {
   removeElements();
   let p = createP();
-  p.removeClass('fade').addClass('fade');
+  p.addClass('fade');
   p.html(txt);
 }
 

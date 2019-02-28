@@ -15,7 +15,7 @@ let io = require('socket.io').listen(server);
 let rooms = io.sockets.adapter.rooms;
 let roomNum = 0;
 // How many in a group? Default is 2
-let numPartners = 2;
+let NUM_PARTNERS = 2;
 
 // Listen for clients to connect
 io.sockets.on('connection', function (socket) {
@@ -53,12 +53,12 @@ io.sockets.on('connection', function (socket) {
 
 // Join room
 function joinRoom(socket) {
-
+ console.log(rooms);
   // First, add client to incomplete rooms
   for (let r in rooms) {
     let room = rooms[r];
     if (room.isPrivate) {
-      if (room.length < numPartners) {
+      if (room.length < NUM_PARTNERS) {
         addSocketToRoom(socket, r);
         return;
       }
