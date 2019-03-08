@@ -212,7 +212,7 @@ Are leaders necessary?
 What’s the difference between taking turns and engaging in conversation?
 What happens when the slowest person sets the pace?
 
-Interaction inputs we will play with will include: mouse, keyboard, mobile device sensors, and microphone. Outputs will include, visuals, text and sound. We will use p5, websockets and node.js for real-time interaction. Class time will be split between playing with and critiquing examples and translating design strategies into code and logic. 		  		  		  		  	
+Interaction inputs we will play with will include: mouse, keyboard, mobile device sensors, and microphone. Outputs will include, visuals, text and sound. We will use p5, websockets and node.js for real-time interaction. Class time will be split between group improvisation exercises, playing with and critiquing examples and translating design strategies into code and logic. 		  		  		  		  	
 
 ## Pre-requisites
 ICM or the equivalent.
