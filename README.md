@@ -200,7 +200,7 @@
 ***
 ***
 # Course description
-Rules of play shape competitive games from checkers to football. But how do the rules of interaction shape non-competitive play? In this course, we will explore, code and test design strategies for playful group interactions while at the same time interrogating both what it means to play and how individual identities and group behaviors.
+Rules of play shape competitive games from checkers to football. But how do the rules of interaction shape non-competitive play? In this course, we will explore, code and test design strategies for playful group interactions while at the same time interrogating both what it means to play and how individual identities and group behaviors emerge.
 
 Some of the questions we will ask and attempt to answer:
 
