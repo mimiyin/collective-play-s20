@@ -136,6 +136,7 @@
    * Examples
       * Ouija
       * Twist and Shake
+* [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
 
 #### Assignment: Mash-up
    * Groups of 2: Create a paired interaction that optimizes for how closely you have to be in sync with your partner.
