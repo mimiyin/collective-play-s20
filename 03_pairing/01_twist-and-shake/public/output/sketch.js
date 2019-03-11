@@ -53,5 +53,5 @@ function draw() {
 
   // Reset tilt and shake for next frame
   tilt = null;
-  shake = 3; //null;
+  shake = null;
 }
