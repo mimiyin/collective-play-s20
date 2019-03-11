@@ -31,11 +31,13 @@ function setup() {
   x = width/2;
   y = height/2;
 
+  // Draw the background
+  background(0);
+  noStroke();
 }
 
 function draw() {
-  background(0);
-  fill(255);
+  fill(255, 1);
   // Calculate velocity based on tilt and shake
   if(tilt && shake) {
     xspeed = tilt.x*shake*0.1;
@@ -51,5 +53,5 @@ function draw() {
 
   // Reset tilt and shake for next frame
   tilt = null;
-  shake = null;
+  shake = 3; //null;
 }

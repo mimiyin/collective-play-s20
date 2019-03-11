@@ -37,7 +37,7 @@ function draw() {
   // Ignore flipped over device
   tb = constrain(tb, 0, 180);
   // Map rotation to alpha range
-  let tba = map(tb, 0, 180, 255, 0)
+  let tba = map(tb, 0, 120, 255, 0)
 
   // Transparency reflects degree of tilt
   // Top Half
@@ -47,6 +47,10 @@ function draw() {
   fill(0, 255 - tba);
   rect(0, height / 2, width, height);
 
+  // Normalize lr and tb
+  lr = map(lr, 0, 360, -1, 1);
+  tb = map(tb, 0, 120, -1, 1);
+
   //Only send direction of tilt
-  socket.emit('tilt', {x: lr > 180 ? 1: -1, y: tb > 90 ? 1 : -1});
+  socket.emit('tilt', {x: lr, y: tb});
 }
