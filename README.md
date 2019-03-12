@@ -140,6 +140,12 @@
 
 #### Assignment: Mash-up
    * Groups of 2: Create a paired interaction that optimizes for how closely you have to be in sync with your partner.
+   * Response to comments on [your post-mortem](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit#gid=247966936)
+   * Study the [server.js code for private-room in 03_pairing.](https://github.com/mimiyin/collective-play-s19/blob/master/03_pairing/02_private-room/server.js) Make use of the copy-and-paste technique we did in class to unravel how it works. Make use of diagramming. Make use of whatever means you have to understand it.
+      * Copy over the code you already know.
+      * Identify the "core functionality" and find it in the code. (Hint: It's joining a room.)
+      * Copy code over line by and line without the comments and write your own comments.
+      * Hunt down all of the variables in the code you copied over to work your way through the rest of the code.
 
 ***
 
