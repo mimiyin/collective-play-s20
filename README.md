@@ -152,6 +152,10 @@
 ## Week 6: User-test / Crit Mash-up Assignment
 #### Preview Queuing
 
+#### Assignment
+   * Play [The Evolution of Trust](https://ncase.me/trust/)
+   * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
+   
 ***
 # Design Strategy 3: Queuing
 
