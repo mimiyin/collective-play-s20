@@ -1,6 +1,11 @@
 // Open and connect input socket
 let socket = io();
 
+// Listen for confirmation of connection
+socket.on('connect', function() {
+  console.log("Connected");
+});
+
 // String being typed
 let str = '';
 // Is it my turn?
@@ -15,16 +20,20 @@ function setup() {
   // Disable canvas by deafult
   cnv.addClass('disabled');
 
-  // Listen for confirmation of connection
-  socket.on('connect', function () {
-    console.log("Connected");
+  // Text styling
+  textAlign(LEFT, TOP);
+  textSize(32);
 
-    // Draw instructions on streen
-    drawString();
-  });
+  // Draw instructions on streen
+  while(!socket.connected){
+    console.log("Not connected.")
+  }
+
+  // Draw string once connected
+  drawString();
 
   // Listen for my turn
-  socket.on('go', function () {
+  socket.on('go', function() {
     myTurn = true;
     // Enable canvas
     cnv.removeClass('disabled');
@@ -33,22 +42,19 @@ function setup() {
   });
 
   // Listen for changes to text
-  socket.on('add', function (data) {
+  socket.on('add', function(data) {
     // Update string
     str += data;
     // Update string on screen
     drawString();
   });
 
-  socket.on('remove', function () {
+  socket.on('remove', function() {
     // Remove characters from string
     str.splice(-1, 1);
     // Update string on screen
     drawString();
   });
-
-  textAlign(LEFT, TOP);
-  textSize(32);
 }
 
 // Draw string, character by character
@@ -72,9 +78,7 @@ function drawString() {
     // else {
     //   text('wait...', x, y);
     // }
-  }
-
-  else {
+  } else {
     // Draw string, character by character
     for (let c = 0; c < str.length; c++) {
       let char = str.charAt(c);

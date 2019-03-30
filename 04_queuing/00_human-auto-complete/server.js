@@ -53,7 +53,7 @@ io.sockets.on('connection',
     // Ready for next
     socket.on('next', function () {
       next();
-    });                                                                                         
+    });
 
     // Listen for this client to disconnect
     // Tell everyone client has disconnected
