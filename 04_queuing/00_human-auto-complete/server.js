@@ -59,15 +59,14 @@ io.sockets.on('connection',
     // Tell everyone client has disconnected
     socket.on('disconnect', function() {
       io.sockets.emit('disconnected', socket.id);
+      // If current client disconnected, move onto next client
+      if (socket === current) next();
+
       // Remove socket from queue
       for(let s = 0; s < queue.length; s++) {
         if(queue[s].id == socket.id) {
           queue.splice(s, 1);
         }
-      }
-      // If current client disconnected, move onto next client
-      if (socket === current) {
-        next();
       }
     });
   });
