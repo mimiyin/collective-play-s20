@@ -168,7 +168,8 @@
    * Taking turns drawing, writing text, making noise.
 
 #### Assignment
-   * Groups of 3: Make a queuing project.
+   * Groups of 3: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s19/wiki/Parameters-of-Queues) you're exploring.
 
 ***
 
