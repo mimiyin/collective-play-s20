@@ -24,11 +24,6 @@ function setup() {
   textAlign(LEFT, TOP);
   textSize(32);
 
-  // Draw instructions on streen
-  while(!socket.connected){
-    console.log("Not connected.")
-  }
-
   // Draw string once connected
   drawString();
 
