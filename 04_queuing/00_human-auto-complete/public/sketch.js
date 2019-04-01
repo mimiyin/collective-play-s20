@@ -54,6 +54,7 @@ function setup() {
 
 // Draw string, character by character
 function drawString() {
+  // Draw a white background
   background(255);
 
   // Start in upper left-hand corner
@@ -67,12 +68,9 @@ function drawString() {
     text(myTurn ? 'type a word' : 'wait...', x, y);
 
     // The above is the same as:
-    // if (myTurn) {
-    //   text('type a word', x, y);
-    // }
-    // else {
-    //   text('wait...', x, y);
-    // }
+    // if (myTurn) text('type a word', x, y);
+    // else text('wait...', x, y);
+
   } else {
     // Draw string, character by character
     for (let c = 0; c < str.length; c++) {
