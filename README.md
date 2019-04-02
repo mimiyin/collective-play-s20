@@ -178,16 +178,18 @@
 ## Week 8: Losing the Individual to the Group
 
 #### Questions
-   * When do you want to be (in)visible?
+   * Where is the line between groupthink and groupsync?
 
 #### In-Class
    * Play "Taking Turns" projects
-   * Analyze (in)visible responses.
+   * Play a variation on "Tuning Meditation" in class
+      * [Pauline Oliveros @The Met](https://www.youtube.com/watch?v=g5bj8sO2-WY) | [About](https://www.metmuseum.org/press/news/2017/tuning-meditation)
+      * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563)
+      
 
 #### Assignment
-   * Design and run a human-only (no technology) interaction.
-      * Be clear about what relationship dynamics you're exploring: e.g. open-ended, confrontation!
-      * Be clear about what emotional dynamics you're exploring: e.g. self-consciousness and validation
+   * Fill out (in)visible worksheet.
+   * (Due in 2 weeks) Design and run a human-only (no technology) group interaction.
    * Think out of the box of our class. Try something outside. Try something with 30 people. Try something that takes an hour!
    * Document the event.
    * Post-mortem what you did: What did you expect to happen? What actually happened? What could you tweak to get a very different outcome?
@@ -195,11 +197,16 @@
 
 ## Week 9: Losing the Individual to the Group
 
+#### Questions
+   * When do you want to be (in)visible?
+
 #### In-Class
   * Play test "Jog Wheel"
+  * Analyze (in)visible responses.
+  * Group improv
 
 #### Assignment
-   * Re-design, run, document and post-mortem take 2 of your human-only interaction.
+   * Continue working on your group interaction. Consider what kind of group dynamics you want to address.
    * Prepare a short presentation of your findings.
    * Include some early thoughts on how you might apply your findings to a digital expression of the ideas you're exploring.
 ***
