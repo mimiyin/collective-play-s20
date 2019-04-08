@@ -193,6 +193,8 @@
    * Fill out (in)visible worksheet. (I will send out link after class.)
    * Who do you want to work with for the final project?
    * (Due in 2 weeks) Design and run a human-only (no technology) group interaction that tries to get as many people on the 4th floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments) Think of this as a way to explore final project ideas.
+   * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-s19/wiki/Group-Dynamics)
+
 
 ## Week 9: Losing the Individual to the Group
 
