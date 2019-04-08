@@ -186,6 +186,7 @@
 #### Resources
    * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guesss # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
    * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
+   * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
       
 
 #### Assignment
