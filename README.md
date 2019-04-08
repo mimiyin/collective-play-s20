@@ -189,11 +189,8 @@
 
 #### Assignment
    * Fill out (in)visible worksheet.
-   * (Due in 2 weeks) Design and run a human-only (no technology) group interaction.
-   * Think out of the box of our class. Try something outside. Try something with 30 people. Try something that takes an hour!
-   * Document the event.
-   * Post-mortem what you did: What did you expect to happen? What actually happened? What could you tweak to get a very different outcome?
-   * Post your documentation to your blog.   
+   * Who do you want to work with for the final project?
+   * (Due in 2 weeks) Design and run a human-only (no technology) group interaction that tries to get as many people on the 4th floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments) Think of this as a way to explore final project ideas.
 
 ## Week 9: Losing the Individual to the Group
 
