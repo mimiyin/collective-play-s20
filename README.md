@@ -168,7 +168,8 @@
    * Taking turns drawing, writing text, making noise.
 
 #### Assignment
-   * Groups of 3: Make a queuing project.
+   * Groups of 3: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s19/wiki/Parameters-of-Queues) you're exploring.
 
 ***
 
@@ -177,28 +178,36 @@
 ## Week 8: Losing the Individual to the Group
 
 #### Questions
-   * When do you want to be (in)visible?
+   * Where is the line between groupthink and groupsync?
 
 #### In-Class
    * Play "Taking Turns" projects
-   * Analyze (in)visible responses.
+   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/) | [Where's Waldo](https://i.imgur.com/GG410zX.jpg)
+#### Resources
+   * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guesss # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
+   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
+   * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
+      
 
 #### Assignment
-   * Design and run a human-only (no technology) interaction.
-      * Be clear about what relationship dynamics you're exploring: e.g. open-ended, confrontation!
-      * Be clear about what emotional dynamics you're exploring: e.g. self-consciousness and validation
-   * Think out of the box of our class. Try something outside. Try something with 30 people. Try something that takes an hour!
-   * Document the event.
-   * Post-mortem what you did: What did you expect to happen? What actually happened? What could you tweak to get a very different outcome?
-   * Post your documentation to your blog.   
+   * Fill out (in)visible worksheet. (I will send out link after class.)
+   * Who do you want to work with for the final project?
+   * (Due in 2 weeks) Design and run a human-only (no technology) group interaction that tries to get as many people on the 4th floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-s19/wiki/Assignments) Think of this as a way to explore final project ideas.
+   * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-s19/wiki/Group-Dynamics)
+
 
 ## Week 9: Losing the Individual to the Group
 
+#### Questions
+   * When do you want to be (in)visible?
+
 #### In-Class
   * Play test "Jog Wheel"
+  * Analyze (in)visible responses.
+  * Group improv
 
 #### Assignment
-   * Re-design, run, document and post-mortem take 2 of your human-only interaction.
+   * Continue working on your group interaction. Consider what kind of group dynamics you want to address.
    * Prepare a short presentation of your findings.
    * Include some early thoughts on how you might apply your findings to a digital expression of the ideas you're exploring.
 ***
