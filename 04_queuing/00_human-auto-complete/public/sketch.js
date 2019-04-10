@@ -30,7 +30,7 @@ function setup() {
   // Listen for my turn
   socket.on('go', function() {
     myTurn = true;
-    // Enable canvas
+    // Enable can       vas
     cnv.removeClass('disabled');
     // Update instructions on screen
     drawString();
