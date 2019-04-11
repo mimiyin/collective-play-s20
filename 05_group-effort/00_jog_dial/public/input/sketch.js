@@ -8,7 +8,7 @@ let interval = 30;
 let num = 0;
 
 // Listen for confirmation of connection
-socket.on('connect', function () {
+socket.on('connect', function() {
   console.log("Connected");
 });
 
@@ -17,18 +17,23 @@ function setup() {
   setShakeThreshold(30);
   background(0);
   frameRate(30);
+  textAlign(CENTER);
 }
 
 function draw() {
   background(0);
+
   let movement = dist(accelerationX, accelerationY, accelerationZ, pAccelerationX, pAccelerationY, pAccelerationZ);
+  // Test with mouse
   //let movement = dist(pmouseX, pmouseY, mouseX, mouseY);
   fill(255, 10);
   ellipse(width / 2, height / 2, movement, movement);
   socket.emit('move', movement);
   fill(255);
+  textSize(32);
+  text(movement, width / 2, (height / 2) - 100);
   textSize(64);
-  text(num, width/2, height/2);
+  text(num, width / 2, height / 2);
 
   // Check once a second if user has slowed down
   if (frameCount % 30 == 0) {
@@ -43,11 +48,10 @@ function draw() {
 // Calculate size of shake
 // Send data
 function deviceShaken() {
-  if(frameCount - lastShaken < 5) return;
+  if (frameCount - lastShaken < 5) return;
   num++;
   background('red');
   interval = frameCount - lastShaken;
   socket.emit('shake', interval);
   lastShaken = frameCount;
 }
-

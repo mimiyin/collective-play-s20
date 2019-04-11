@@ -24,6 +24,9 @@ let clockVol = -5;
 let CLOCK_SENSITIVITY = .425;
 let CLOCK_VOL_SPEED = 0.005;
 
+// Has audio started
+let audio = false;
+
 function preload() {
   hamstar = loadSound('hamstar.mp3');
   clock = loadSound('clock.mp3');
@@ -34,6 +37,7 @@ function setup() {
 
   // Listen for movement data
   socket.on('move', function (data) {
+    console.log("MOVE", data);
     // If there's slight movement, set
     if (data > CLOCK_SENSITIVITY) {
       clockVol = -5;
@@ -120,7 +124,7 @@ function draw() {
 
 
   // Clock increases volume all the time if there are users
-  if (numUsers >= MIN_USERS) {
+  if (audio && numUsers >= MIN_USERS) {
     clockVol += CLOCK_VOL_SPEED;
     clock.setVolume(constrain(clockVol, 0, 5));
   }
@@ -169,6 +173,13 @@ function draw() {
 }
 
 function keyPressed() {
+  if(!audio) {
+    getAudioContext().resume();
+    // Remove instructions
+    select('#key-press').remove();
+    audio = true;
+  }
+
   switch (keyCode) {
     case UP_ARROW:
       CLOCK_SENSITIVITY += 0.01;
