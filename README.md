@@ -202,7 +202,7 @@
    * When do you want to be (in)visible?
 
 #### In-Class
-  * Play test "Jog Wheel"
+  * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
   * Analyze (in)visible responses.
   * Group improv
 
