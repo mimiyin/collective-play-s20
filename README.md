@@ -206,6 +206,8 @@
   * [Calculating "Averages"](https://editor.p5js.org/mimi/sketches/cPtOloDf6)
   * Analyze (in)visible responses.
   * Group improv
+     * [Tuning Meditation](https://www.metmuseum.org/press/news/2017/tuning-meditation) by Pauline Oliveros | [Performance at The Met](https://www.youtube.com/watch?v=g5bj8sO2-WY&t=55) (Check out the [arpeggio](https://en.wikipedia.org/wiki/Arpeggio) that spontaneously emerges at 55s)
+     
 
 #### Assignment
    * Continue working on your group interaction. Consider what kind of group dynamics you want to address.
