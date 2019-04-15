@@ -203,6 +203,7 @@
 
 #### In-Class
   * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
+  * [Calculating "Averages"](https://editor.p5js.org/mimi/sketches/cPtOloDf6)
   * Analyze (in)visible responses.
   * Group improv
 
