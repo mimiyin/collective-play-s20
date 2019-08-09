@@ -30,29 +30,30 @@
    * Tech Tutorials:
       * Setting up you local development environment
       * CLI - Command Line Interface
-      * [Atom Editor](https://github.com/mimiyin/collective-play-f19/wiki/Atom-Editor)
-      * [Node Server](https://nodejs.org/en/)
 #### Assignment: Hello CLI
-   * Practice using the CLI. Browse to 3 different locations on your hard drive.
-   * From one of your folders, go up until you can't go up anymore. What's the name of that directory?
-   * Then find your way back to the folder.
-   * Use ls -la
-   * Use TAB to auto-complete as much as possible. Use UP / DOWN keys as much as possible.
+   * [Download and Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) | [Mac](https://git-scm.com/download/mac) | [Windows](https://git-scm.com/download/win)
+   * [Atom Editor](https://github.com/mimiyin/collective-play-f19/wiki/Atom-Editor)
+   * [Node Server](https://nodejs.org/en/)
+
 
 ### Class 2: Hello Web Servers
 #### Question(s)
    * What is a web server? Why do we need it?
 #### In-Class
+   * Tech Tutorials
+      * CLI
+      * Git
+      * Using Atom
    * Code
       * Hello node
       * Hello express
       * Hello glitch.com
 #### Assignment: Make a web server.
-    * Take a sketch you created in p5.js and serve it up locally on your computer.
-    * Then put it up on glitch.com
-    * Additional Resources
-       * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
-       * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
+   * Take a sketch you created in p5.js and serve it up locally on your computer.
+   * Then put it up on glitch.com
+   * Additional Resources
+      * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
+      * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
 
 ***
 
@@ -66,6 +67,10 @@
       * Hello sockets
       * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
       * Camera and Microphone
+         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
+         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
+         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)    
+
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
@@ -82,8 +87,10 @@
 
 ### Class 2: New inputs
 * Tech Tutorials
-   * keyTyped(), keyCode and key
+   * keyTyped(), keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
    * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+      * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
+      * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
 #### In-Class
    * Exercise: Collective Drawing
