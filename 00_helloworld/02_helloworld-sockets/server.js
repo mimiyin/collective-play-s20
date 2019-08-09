@@ -9,6 +9,7 @@ let server = require('http').createServer(app).listen(port, function () {
 // Tell server where to look for files
 app.use(express.static('public'));
 
+
 // Create socket connection
 let io = require('socket.io').listen(server);
 

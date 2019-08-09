@@ -1,5 +1,10 @@
 // Open and connect socket
 let socket = io();
+// Listen for confirmation of connection
+socket.on('connect', function () {
+  console.log("Connected");
+});
+
 // Keep track of users
 let users = {};
 
@@ -19,11 +24,6 @@ function setup() {
 
   // Select input and listen for changes
   select("#username").input(usernameChanged);
-
-  // Listen for confirmation of connection
-  socket.on('connect', function () {
-    console.log("Connected");
-  });
 
   // Listen for updates to usernames
   socket.on('username', function (message) {
@@ -82,5 +82,3 @@ function mouseMoved(){
 function usernameChanged(){
   socket.emit('username', this.value());
 }
-
-

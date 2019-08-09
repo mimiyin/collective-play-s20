@@ -1,15 +1,14 @@
 // Open and connect socket
 let socket = io();
 
+// Listen for confirmation of connection
+socket.on('connect', function() {
+  console.log("Connected");
+});
 
 function setup(){
   createCanvas(windowWidth, windowHeight);
   background(255);
-
-  // Listen for confirmation of connection
-  socket.on('connect', function() {
-    console.log("Connected");
-  });
 
   // Receive message from server
   socket.on('data', drawPos);

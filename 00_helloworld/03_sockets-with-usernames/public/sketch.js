@@ -1,5 +1,9 @@
 // Open and connect socket
 let socket = io();
+// Listen for confirmation of connection
+socket.on('connect', function () {
+  console.log("Connected");
+});
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -7,11 +11,6 @@ function setup() {
 
   // Select input and listen for changes
   select("#username").input(usernameChanged);
-
-  // Listen for confirmation of connection
-  socket.on('connect', function () {
-    console.log("Connected");
-  });
 
   // Receive message from server
   socket.on('message', function (message) {
@@ -42,6 +41,3 @@ function mouseMoved(){
 function usernameChanged(){
   socket.emit('username', this.value());
 }
-
-
-

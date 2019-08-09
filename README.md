@@ -89,6 +89,7 @@
 * Tech Tutorials
    * keyTyped(), keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
    * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+      * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
       * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
       * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
@@ -103,6 +104,7 @@
 
 #### Assignment: New Inputs
   * Pick an input you've never worked with before and send it over sockets.
+  * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
 ***
 
@@ -110,7 +112,6 @@
 ### Class 1: Keeping track of who's who
 #### In-Class
    * Tech Tutorials: Identifying Inputs
-      * Review of JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
       * Keeping track of inputs by id
       * Normalizing data across clients
       * Separating inputs and outputs with namespaces
