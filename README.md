@@ -69,7 +69,8 @@
       * Camera and Microphone
          * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
          * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
-         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)    
+         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
+         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
@@ -82,46 +83,44 @@
 #### Assignment:
    * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1bEKzoevEpd8jgmHKU1we4AnMbRwMLGCD5YFSZvY37is/edit?usp=sharing)
    * Pick an input from p5.js and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
-   * Bring 5 things to draw to the next class.
-   * Wear clothes you can get dirty...forever.
+   * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
 ### Class 2: New inputs
+#### In-Class
 * Tech Tutorials
-   * keyTyped(), keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
    * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
       * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
       * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
-      * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
+   * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
+   * Identifying Inputs
+      * Keeping track of inputs by id
+      * Normalizing data across clients
 
-#### In-Class
-   * Exercise: Collective Drawing
-
-#### Question(s)
-   * What does it mean to be expressive?
-   * What are the parameters of expression in:
-      * What you see
-      * What you hear
-
-#### Assignment: New Inputs
-  * Pick an input you've never worked with before and send it over sockets.
-  * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
+#### Assignment: Identify Inputs
+  * Pick an input you've never worked with before and send it over sockets. Keep track of who's sending it.
+  * Bring 5 things to draw to the next class.
+  * Wear clothes you can get dirty...forever.
 
 ***
 
-## Week 3: Inputs
-### Class 1: Keeping track of who's who
+## Week 3: Expressive Outputs
+### Class 1: Capturing expression
 #### In-Class
-   * Tech Tutorials: Identifying Inputs
-      * Keeping track of inputs by id
-      * Normalizing data across clients
+   * Exercise: Collective Drawing
+   * Code
+      * Review identifying inputs
       * Separating inputs and outputs with namespaces
-    * Code
       * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
 
 #### Assignment: Identify Inputs
       * Take your new input assignment and keep track of who's sending it.
 
 ### Class 2: Collecting the next layer of input (meta-inputs).
+#### Question(s)
+         * What does it mean to be expressive?
+         * What are the parameters of expression in:
+            * What you see
+            * What you hear
 #### In-Class
    * Exercise: Shouting
    * Code Examples:
