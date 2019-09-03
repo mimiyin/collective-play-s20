@@ -31,9 +31,7 @@
       * Setting up you local development environment
       * CLI - Command Line Interface
 #### Assignment: Hello CLI
-   * [Download and Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) | [Mac](https://git-scm.com/download/mac) | [Windows](https://git-scm.com/download/win)
-   * [Atom Editor](https://github.com/mimiyin/collective-play-f19/wiki/Atom-Editor)
-   * [Node Server](https://nodejs.org/en/)
+   * [Set-up your local development environment](https://github.com/mimiyin/collective-play-f19/wiki/Set-up-your-local-development-environment)
 
 
 ### Class 2: Hello Web Servers
