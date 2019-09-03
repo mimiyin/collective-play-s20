@@ -25,8 +25,8 @@
    * What is play?
    * Is this a programming class?
 #### In-Class
-   * Exercise: Peer Pressure
-   * Overview of Design Patterns | Diagramming techniques
+   * Exercise: Hands
+   * [Overview of Syllabus](https://docs.google.com/document/d/1HUGW8AHLQWfe9PBG3U9xTQ8ag-Xrbw2YayktwWijf5s/edit?usp=sharing)
    * Tech Tutorials:
       * Setting up you local development environment
       * CLI - Command Line Interface
