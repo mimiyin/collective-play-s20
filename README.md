@@ -49,7 +49,7 @@
       * Hello glitch.com
 #### Assignment: Make a web server.
    * Take a sketch you created in p5.js and serve it up locally on your computer.
-   * Then put it up on glitch.com
+   * Then put the exact same sketch up on [glitch.com](https://glitch.com)
    * Additional Resources
       * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
       * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
