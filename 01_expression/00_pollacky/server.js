@@ -13,7 +13,7 @@ app.use(express.static('public'));
 let io = require('socket.io').listen(server);
 
 // Clients in the output namespace
-var outputs = io.of('/output');
+let outputs = io.of('/output');
 // Listen for output clients to connect
 outputs.on('connection', function(socket){
   console.log('An output client connected: ' + socket.id);
@@ -25,7 +25,7 @@ outputs.on('connection', function(socket){
 });
 
 // Clients in the input namespace
-var inputs = io.of('/input');
+let inputs = io.of('/input');
 // Listen for input clients to connect
 inputs.on('connection', function(socket){
   console.log('An input client connected: ' + socket.id);

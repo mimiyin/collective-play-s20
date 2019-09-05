@@ -38,6 +38,7 @@
 #### Question(s)
    * What is a web server? Why do we need it?
 #### In-Class
+   * [Milgrim's Experiment](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s.
    * Tech Tutorials
       * CLI
       * Git
