@@ -64,13 +64,6 @@
    * Exercise: Staring Contest
    * Tech Tutorials
       * Hello sockets
-      * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
-      * Camera and Microphone
-         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
-         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
-         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
-         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
-
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
@@ -80,23 +73,30 @@
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
 
 #### Assignment:
-   * [Brainstorm Inputs](https://docs.google.com/spreadsheets/d/1bEKzoevEpd8jgmHKU1we4AnMbRwMLGCD5YFSZvY37is/edit?usp=sharing)
-   * Pick an input from p5.js and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
+   * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
    * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
 ### Class 2: New inputs
 #### In-Class
+* Finish up inputs
 * Tech Tutorials
+   * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
    * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+      * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
       * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
       * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
    * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
+   * Camera and Microphone
+      * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
+      * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
+      * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
+      * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
    * Identifying Inputs
       * Keeping track of inputs by id
       * Normalizing data across clients
 
 #### Assignment: Identify Inputs
-  * Pick an input you've never worked with before and send it over sockets. Keep track of who's sending it.
+  * Take your input you're sending over sockets and keep track of who's sending it.
   * Bring 5 things to draw to the next class.
   * Wear clothes you can get dirty...forever.
 
@@ -105,14 +105,14 @@
 ## Week 3: Expressive Outputs
 ### Class 1: Capturing expression
 #### In-Class
-   * Exercise: Collective Drawing
    * Code
       * Review identifying inputs
       * Separating inputs and outputs with namespaces
       * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
+   * Exercise: Collective Drawing
 
 #### Assignment: Identify Inputs
-      * Take your new input assignment and keep track of who's sending it.
+      * Take your input assignment and create separate views for input and output.
 
 ### Class 2: Collecting the next layer of input (meta-inputs).
 #### Question(s)
@@ -132,15 +132,17 @@
 
 #### Assignment: Expressive Outputs
    * Diagram the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class.
+   * Take your input assignment and think about how to allow for more expression. You will continue to develop this as a project next 1.5 weeks.
 
 ***
 
 ## Week 4: Tableau
 ### Class 1: Finish up expressive outputs examples
    * Review diagrams
+   * Discuss expression ideas.
 
 #### Assignment: Expressive Outputs
-   * Re-work one of your hello world input examples to allow for more expression. You will continue to develop this as a project next week.
+   * Group up. Take one of your input assignments and make it more expressive. Each person should contribute an interpretation. You will continue to develop this as a project next week.
    * Resources:
       * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
       * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
@@ -159,7 +161,7 @@
    * Code: Texteoke with Conductor
 
 #### Assignment: Create a Tableau
-   * Groups of 3: Come up with a prompt for your expressive outputs assignments to create meaning.
+   * Groups of 2 or 3: Come up with a prompt for your expressive outputs assignments to create meaning.
    * [Questions to keep in mind.](https://github.com/mimiyin/collective-play-f19/wiki/Questions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
 
