@@ -105,34 +105,35 @@
 ## Week 3: Expressive Outputs
 ### Class 1: Capturing expression
 #### In-Class
+   * Exercise: Collective Drawing
    * Code
       * Review identifying inputs
-      * Separating inputs and outputs with namespaces
-      * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
-   * Exercise: Collective Drawing
-
-#### Assignment: Identify Inputs
-      * Take your input assignment and create separate views for input and output.
+      * Capturing expression
+         * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z): Press mouse to cycle through 4 modes.
+         * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
+#### Assignment: Capturing Expression in Inputs
+   * Take your input assignment and capture meta-data that allows the output to be more expressive.
+      * [Inspiration](https://www.newyorker.com/cartoon/a22440)
 
 ### Class 2: Collecting the next layer of input (meta-inputs).
 #### Question(s)
-         * What does it mean to be expressive?
-         * What are the parameters of expression in:
-            * What you see
-            * What you hear
+   * What does it mean to be expressive?
+   * What are the parameters of expression in:
+      * What you see
+      * What you hear
 #### In-Class
-   * Exercise: Shouting
    * Code Examples:
-      * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z): Press mouse to cycle through 4 modes.
-      * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
-      * Pollacky
-      * Texteoke
+      * Separating inputs and outputs with namespaces
+         * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
+      * Expressive examples
+         * Pollacky
+         * Texteoke
+         * Finger Drumming
    * Resources
       * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
 
 #### Assignment: Expressive Outputs
-   * Diagram the 3 examples in Github and drop them in my mailbox by Sunday evening. We will review them in class.
-   * Take your input assignment and think about how to allow for more expression. You will continue to develop this as a project next 1.5 weeks.
+   * Diagram the _pollacky_ and _texteoke_ examples in Github and drop them in my mailbox by Monday evening. We will review them in class.
 
 ***
 
