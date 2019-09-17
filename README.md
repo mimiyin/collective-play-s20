@@ -112,7 +112,7 @@
          * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z): Press mouse to cycle through 4 modes.
          * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
 #### Assignment: Capturing Expression in Inputs
-   * Take your input assignment and capture meta-data that allows the output to be more expressive.
+   * Capture expression through the keyboard, mouse, phone sensors, mic, camera and express it.
       * [Inspiration](https://www.newyorker.com/cartoon/a22440)
 
 ### Class 2: Collecting the next layer of input (meta-inputs).
