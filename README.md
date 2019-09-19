@@ -134,7 +134,7 @@
       * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
 
 #### Assignment: Expressive Outputs
-   * Diagram the _pollacky_ or _texteoke_ examples in Github and drop them in my mailbox by Monday evening. We will review them in class.
+   * Diagram the _pollacky_ or _texteoke_ examples in Github and drop them in my mailbox by Tuesday 10AM.
       * Server and clients
       * Namespaces
       * Event names
