@@ -135,7 +135,13 @@
 
 #### Assignment: Expressive Outputs
    * Diagram the _pollacky_ or _texteoke_ examples in Github and drop them in my mailbox by Monday evening. We will review them in class.
-   * Show and discuss your expression assignment. The goal is to get people to go beyond what they normally do. How does it succeed? How could it be improved? Any new directions you want to explore?
+      * Server and clients
+      * Namespaces
+      * Event names
+      * Contents of data being sent
+      * Start and end points of data movement and indicate direction
+      * You can also attempt to diagram any parts of the code that are hard to understand.
+   * Show each other and discuss your expression assignments. The goal is to get people to go beyond what they normally do. How does it succeed? How could it be improved? Any new directions you want to explore?
 
 ***
 
