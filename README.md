@@ -123,6 +123,7 @@
       * What you hear
 #### In-Class
    * Code Examples:
+      * [History of Mic Level](https://editor.p5js.org/mimi/sketches/zpxMgCvji)
       * Separating inputs and outputs with namespaces
          * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
       * Expressive examples
@@ -133,7 +134,8 @@
       * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
 
 #### Assignment: Expressive Outputs
-   * Diagram the _pollacky_ and _texteoke_ examples in Github and drop them in my mailbox by Monday evening. We will review them in class.
+   * Diagram the _pollacky_ or _texteoke_ examples in Github and drop them in my mailbox by Monday evening. We will review them in class.
+   * Show and discuss your expression assignment. The goal is to get people to go beyond what they normally do. How does it succeed? How could it be improved? Any new directions you want to explore?
 
 ***
 
