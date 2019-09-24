@@ -147,30 +147,35 @@
 
 ## Week 4: Tableau
 ### Class 1: Finish up expressive outputs examples
-   * Review diagrams
-   * Discuss expression ideas.
+#### Question(s)
+   * How do we maximize creative collisions in collaboration?
+#### In-Class
+   * Review diagrams.
+   * Collective self-portrait.
 
 #### Assignment: Expressive Outputs
-   * Group up. Take one of your input assignments and make it more expressive. Each person should contribute an interpretation. You will continue to develop this as a project next week.
-   * Resources:
-      * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
-      * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
+   * Experiment with expressive inputs and outputs. Divide up the work, everyone should post code. Ways you could divide up the work include:
+      * Each person tries a different input/output.
+      * You agree on an input and try different outputs.
+      * You agree on an output and try different intputs.
+      * Any combination or permutation of the above.
+   * Resources
       * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
       * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
-      * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
-      * [Glitch.com Hello World Sockets](https://glitch.com/edit/#!/hello-world-sockets)
 
 ### Class 2: Meaning-making
 #### Question(s)
    * How do we find meaning as a group?
    * Semantics is the study of the meaning of words or lexical meaning. What about non-lexical semantics?
+   * Resources:
+      * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+      * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
 
 #### In-Class
-   * Exercise(s): Tableau
-   * Code: Texteoke with Conductor
+   * Exercise(s): Deep Listening
 
 #### Assignment: Create a Tableau
-   * Groups of 2 or 3: Come up with a prompt for your expressive outputs assignments to create meaning.
+   * Create something expressive that is meaningful with sockets.
    * [Questions to keep in mind.](https://github.com/mimiyin/collective-play-f19/wiki/Questions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
 
