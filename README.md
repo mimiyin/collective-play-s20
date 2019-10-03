@@ -187,11 +187,7 @@
 #### Assignment:
    * Post-Mortem
       * [Fill out this worksheet.](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit?usp=sharing) Each team has a tab. Access with your NYU account.
-      * What worked.
-      * What didn't work.
-      * Any surprises?
-      * What could you have done differently? And what effect might it have had?
-      * What turned out to be the most interesting inter-personal dynamic in your project? (e.g. trolling, feeling left out) How could you explore that further?
+      * [Create a re-design brief](https://github.com/mimiyin/collective-play-f19/wiki/Re-Design-Brief)
 
 ***
 
