@@ -42,7 +42,7 @@ function draw() {
   // and check distance between users
   for (let u in users) {
     let user = users[u];
-    
+
     avgPos.x += user.x;
     avgPos.y += user.y;
 
@@ -54,8 +54,6 @@ function draw() {
 
     // Remember first user as previous user for next time through loop
     if(num == 0) puser = users[u];
-
-    ellipse(user.x, user.y, 5, 5);
 
     // Keep counting
     num++;
