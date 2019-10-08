@@ -21,7 +21,7 @@ function setup() {
 
     // Update position of user in room
     // Scaled to output screen size
-    users[id] = { x: width * data.x, y: width * data.y};
+    users[id] = { x: width * data.x, y: width * data.y };
   });
 
   // Remove disconnected users
@@ -33,7 +33,7 @@ function setup() {
 function draw() {
 
   // Calculate avgPos of users
-  let avgPos = {x: 0, y: 0};
+  let avgPos = { x: 0, y: 0 };
   let num = 0;
   // Previous user
   let puser;
@@ -42,17 +42,23 @@ function draw() {
   // and check distance between users
   for (let u in users) {
     let user = users[u];
+    
     avgPos.x += user.x;
     avgPos.y += user.y;
-    num++;
 
-    // Check distance between this user and previous user
+    // Check distance between this user and first user
     if(puser) {
       let d = dist(user.x, user.y, puser.x, puser.y);
       if(d > 250) background(255);
     }
-    // Remember this user as previous user for next time through loop
-    puser = users[u];
+
+    // Remember first user as previous user for next time through loop
+    if(num == 0) puser = users[u];
+
+    ellipse(user.x, user.y, 5, 5);
+
+    // Keep counting
+    num++;
   }
   avgPos.x /= num;
   avgPos.y /= num;
@@ -63,6 +69,7 @@ function draw() {
     // Draw line of average positions
     line(pAvgPos.x, pAvgPos.y, avgPos.x, avgPos.y);
   }
+
   // Remember average position for next frame
   pAvgPos = avgPos;
 }

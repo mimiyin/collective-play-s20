@@ -16,7 +16,7 @@ function setup() {
   socket.on('message', function (message) {
     let id = message.id;
     let data = message.data;
-    users[id] = {x: width * data.x, y: width * data.y};
+    users[id] = { x: width * data.x, y: width * data.y };
   });
 
   // Remove disconnected users
