@@ -32,10 +32,12 @@ function draw() {
   for (let u in users) {
     let user = users[u];
     // If this user is me, make it red
-    if (u == socket.id) fill('red');
+    if (u == socket.id) {
+      fill('red');
+      ellipse(user.x, user.y, 50, 50);
+    }
     // Otherwise, blue
-    else fill('blue');
-    ellipse(user.x, user.y, 50, 50);
+    //else fill('blue');
   }
 
   // Send proportional, normalized mouse data

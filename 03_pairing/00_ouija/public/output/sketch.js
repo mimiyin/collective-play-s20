@@ -42,6 +42,10 @@ function draw() {
   // and check distance between users
   for (let u in users) {
     let user = users[u];
+    if(num == 0) {
+      user.x = width - user.x;
+      user.y = height - user.y;
+    }
 
     avgPos.x += user.x;
     avgPos.y += user.y;

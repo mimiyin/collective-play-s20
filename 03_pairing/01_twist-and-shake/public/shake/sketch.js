@@ -9,7 +9,7 @@ socket.on('connect', function () {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
-  setShakeThreshold(10);
+  setShakeThreshold(1);
 }
 
 function draw(){
@@ -24,5 +24,3 @@ function deviceShaken() {
   rect(width/2, height/2, force, force);
   socket.emit('shake', force);
 }
-
-
