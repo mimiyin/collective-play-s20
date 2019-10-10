@@ -183,7 +183,7 @@
 
 ## Week 5: Play-test Tableau Assignment
 #### Preview Partnering
-   * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
+   * Standing up together
 #### Assignment:
    * Post-Mortem
       * [Fill out this worksheet.](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit?usp=sharing) Each team has a tab. Access with your NYU account.
@@ -199,18 +199,17 @@
    * When does influence turn into interference?
    * Is it more fun to cooperate or undermine?
 #### In-Class
-* Exercise(s): Human Ouija Board
+* [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
 
 ### Class 2
 * Mashing up inputs into pairs.
    * Examples
       * Ouija
-      * Twist and Shake
+      * Twist and Shake | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
+* Exercise(s): Human Ouija Board
 
 #### Assignment: Partnering
-   * Groups of 2: Create a paired interaction that optimizes for how closely you have to be in sync with your partner.
-      * For humor and inspiration? [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
-   * Respond to comments on [your post-mortem](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit#gid=247966936)
+   * Groups of 2: You are responding to a call from a dating experiences start-up. They want to create an experience where couples can test how well they can communicate in a nonverbal way. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
 
 ***
 
