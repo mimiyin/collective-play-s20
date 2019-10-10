@@ -209,7 +209,7 @@
 * Exercise(s): Human Ouija Board
 
 #### Assignment: Partnering
-   * Groups of 2: You are responding to a call from a dating experiences start-up. They want to create an experience where couples can test how well they can communicate in a nonverbal way. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
+   * For groups of 2: You are responding to a call from a dating experiences start-up. They want to create experiences where couples can test how well they can communicate without using words or word-like gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
 
 ***
 
