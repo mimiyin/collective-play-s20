@@ -1,3 +1,6 @@
+// Grab user number from the url
+let u = window.location.search;
+
 // Open and connect input socket
 let socket = io('/input');
 
@@ -30,20 +33,20 @@ function draw() {
   background(255);
   // Draw a dot for each user
   noStroke();
-  for (let u in users) {
-    let user = users[u];
-    // If this user is me, make it red
-    if (u == socket.id) {
-      fill('red');
-      ellipse(user.x, user.y, 50, 50);
-    }
-    // Otherwise, blue
-    else fill('blue');
-  }
+
+  // Draw mouse position
+  fill('red');
+  ellipse(mouseX, mouseY, 50, 50);
 
   // Send proportional, normalized mouse data
   let x = mouseX / width;
   let y = mouseY / height;
+
+  // Flip data for user 1
+  if(u == '?u=1') {
+    x = 1-x;
+    y = 1-y;
+  }
 
   // Emit the data
   socket.emit('data', {
