@@ -205,7 +205,7 @@
 * Mashing up inputs into pairs.
    * Examples
       * Ouija
-      * Twist and Shake | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
+      * Twist and Shake | [glitch](https://glitch.com/edit/#!/tilt-and-shake) | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
 * Exercise(s): Human Ouija Board
 
 #### Assignment: Partnering
