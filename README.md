@@ -214,15 +214,9 @@
 ***
 
 ## Week 7: Play-test Partnering Assignment
-#### Preview Queuing
-   * Different ways to form a line
-   * Musical Chairs
-   * Duck Duck Goose
-   * Zip Zap Zop
 
-#### Assignment
-   * Play [The Evolution of Trust](https://ncase.me/trust/)
-   * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
+#### Reflection
+   * What aspect of partnering does your project explore? e.g. The paired walking exercise helps us practice our ability to assert our individual will without drowning out our ability to listen to our partner.
 
 ***
 
@@ -230,38 +224,42 @@
 
 ## Week 8: Waiting versus Anticipating
 ### Class 1
+   * Wrap up Partnering assignment
+
 #### Question(s)
    * What's the difference between waiting and anticipating?
    * What's the difference between taking turns and having a conversation?
-   * How do lines encourage or discourage cheating?
+
 #### In-Class
-   * Keeping track of who's turn it is.
-   * Example: Dear John
-   * Taking turns drawing, writing text, making noise.
+   * Different ways to form a line
+   * Telephone versus Zip Zap Zop
 
 ### Class 2
+   * Play-test Dear John
    * Deconstruct Dear John example on paper
 
 #### Assignment
-   * Groups of 3: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
+   * Play [The Evolution of Trust](https://ncase.me/trust/)
+   * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
+
+
+## Week 9: Queuing continued
+### Class 1
+   * Why do we cheat? When do we cheat?
+   * Present concepts for queuing projects.
+
+#### Assignment
+   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
    * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
 
-## Week 9: Play-test Queueing
+## Week 10: Play-test Queueing
 
-#### Questions
-   * What is the line between groupthink and groupsync?
+### Class 1: Play-test version 1
 
-#### In-Class
-   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/) | [Where's Waldo](https://i.imgur.com/GG410zX.jpg)
-#### Resources
-   * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
-   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
-   * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
+### Class 2: Play-test version 2
 
-
-#### Assignment for the week
+#### Assignment
    * Fill out (in)visible worksheet. (I will send out link after class.)
-   * Read Chapters 1, 6, and 7 of Part 1 of [Crime and Punishment by Fyodor Dostoevsky](https://www.gutenberg.org/ebooks/2554)
    * (Due in 2 weeks) Design and run an analog group interaction that tries to get as many people on the floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments) Think of this as a way to explore final project ideas.
    * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-f19/wiki/Group-Dynamics)
 
@@ -269,30 +267,31 @@
 
 # Design Strategy 4: Group Effort
 
-## Week 10: Losing the Individual to the Group
+## Week 11: Losing the Individual to the Group
 
-### Class 1
 #### Questions
+   * What is the line between groupthink and groupsync?
    * When do you want to be (in)visible?
-   * Analyze (in)visible responses.
-   * Discuss reading.
 
 ### Class 2
-   * Present ideas for analog group interaction assignment.
+#### In-Class
+   * Analyze (in)visible responses.
+   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/) | [Where's Waldo](https://i.imgur.com/GG410zX.jpg)
+#### Resources
+   * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
+   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
+   * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
 
-## Week 11: Losing the Individual to the Group
-### Class 1
+### Class 2
 #### In-Class
   * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
-
-### Class 2
   * [Calculating "Averages"](https://editor.p5js.org/mimi/sketches/cPtOloDf6)
-
 
 #### Assignment for the week
    * Continue working on your analog group interaction. Consider what kind of group dynamics you want to address.
    * Prepare a short presentation of your findings.
    * Include some early thoughts on how you might apply your findings to a digital expression of the ideas you're exploring.
+
 ***
 
 ## Weeks 12-14: Final Project Development
