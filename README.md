@@ -238,9 +238,14 @@
    * Play-test Dear John
    * Deconstruct Dear John example on paper
 
-#### Assignment
+#### Assignment for next week
    * Play [The Evolution of Trust](https://ncase.me/trust/)
    * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
+
+#### Assignment due in 1.5 weeks
+   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
+   * Be prepared to talk about rough ideas next week.
 
 
 ## Week 9: Queuing continued
@@ -248,15 +253,17 @@
    * Why do we cheat? When do we cheat?
    * Present concepts for queuing projects.
 
-#### Assignment
-   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
+### Assignment
+   * Prepare a draft version of your queuing project to test in class. (It can be analog.)
+
+### Class 2
+   * Play-test draft version of your queuing project.
 
 ## Week 10: Play-test Queueing
 
-### Class 1: Play-test version 1
+### Class 1: Play-test Queueing
 
-### Class 2: Play-test version 2
+### Class 2: Preview Group Effort
 
 #### Assignment
    * Fill out (in)visible worksheet. (I will send out link after class.)
