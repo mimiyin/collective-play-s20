@@ -235,9 +235,9 @@
    * The Wave versus Telephone versus Zip Zap Zop
 
 #### Assignment for Thursday
-      * Complete these reviews for your first 2 collaborative assignments:
-          * [Something Expressive and Meaningful](https://forms.gle/buFntmZDv4sbQZ7H7)
-          * [Partnering](https://forms.gle/XYWXsiAjaqzu2Pym8)
+   * Complete these reviews for your first 2 collaborative assignments:
+      * [Something Expressive and Meaningful](https://forms.gle/buFntmZDv4sbQZ7H7)
+      * [Partnering](https://forms.gle/XYWXsiAjaqzu2Pym8)
 
 ### Class 2
    * Play-test Dear John
