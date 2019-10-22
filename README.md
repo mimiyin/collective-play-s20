@@ -232,13 +232,18 @@
 
 #### In-Class
    * Different ways to form a line
-   * Telephone versus Zip Zap Zop
+   * The Wave versus Telephone versus Zip Zap Zop
+
+#### Assignment for Thursday
+      * Complete these reviews for your first 2 collaborative assignments:
+          * [Something Expressive and Meaningful](https://forms.gle/buFntmZDv4sbQZ7H7)
+          * [Partnering](https://forms.gle/XYWXsiAjaqzu2Pym8)
 
 ### Class 2
    * Play-test Dear John
    * Deconstruct Dear John example on paper
 
-#### Assignment for next week
+#### Assignment for next Tuesday
    * Play [The Evolution of Trust](https://ncase.me/trust/)
    * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
 
