@@ -3,7 +3,7 @@ let socket = io();
 
 // Listen for confirmation of connection
 socket.on('connect', function() {
-  console.log("Connected");
+  console.log("Connected", socket.id);
 });
 
 // String being typed
@@ -45,8 +45,8 @@ function setup() {
   });
 
   socket.on('remove', function() {
-    // Remove characters from string
-    str.splice(-1, 1);
+    // Remove last character from string
+    str = str.substring(0, str.length-1);
     // Update string on screen
     drawString();
   });

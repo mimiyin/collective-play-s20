@@ -30,54 +30,60 @@ io.sockets.on('connection',
 
     // Kick off queue as soon as there's 1 person in line
     if (q < 0 && queue.length > 1) {
-      next();
+      next(true);
     }
     // Listen for add messages
     socket.on('add', function (data) {
       // Data comes in as whatever was sent, including objects
-      //console.log("Received: 'message' " + data);
+      //console.log("Received: 'add' " + data);
 
       // Send it to all clients, including this one
       io.sockets.emit('add', data);
     });
 
     // Listen for remove messages
-    socket.on('remove', function (data) {
+    socket.on('remove', function () {
       // Data comes in as whatever was sent, including objects
-      //console.log("Received: 'message' " + data);
+      //console.log("Received: 'remove');
 
       // Send it to all clients, including this one
-      io.sockets.emit('remove', data);
+      io.sockets.emit('remove');
     });
 
     // Ready for next
     socket.on('next', function () {
-      next();
+      next(true);
     });
 
     // Listen for this client to disconnect
     // Tell everyone client has disconnected
     socket.on('disconnect', function() {
+      // Tell everyone someone
       io.sockets.emit('disconnected', socket.id);
-      // If current client disconnected, move onto next client
-      if (socket === current) next();
 
       // Remove socket from queue
       for(let s = 0; s < queue.length; s++) {
+        console.log(queue[s].id, socket.id);
         if(queue[s].id == socket.id) {
+          console.log("Remove from queue: ", socket.id);
+          // Remove from queue
           queue.splice(s, 1);
+          // If current client disconnected, set new current
+          if (socket === current) next(false);
         }
       }
     });
   });
 
 // Get next client
-function next() {
+function next(advance) {
   // Move to next person in line
-  q++;
-  q %= queue.length;
-  console.log("NEXT UP: ", q);
+  if(advance) q++;
+  // When we reach the end, wrap around to the beginning
+  if(q >= queue.length) q = 0;
+  console.log("NEXT UP: ", q, queue.length);
 
+  // Set current socket
   current = queue[q];
   current.emit('go');
 }
