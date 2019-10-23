@@ -231,8 +231,7 @@
    * What's the difference between taking turns and having a conversation?
 
 #### In-Class
-   * Different ways to form a line
-   * The Wave versus Telephone versus Zip Zap Zop
+   * The Wave
 
 #### Assignment for Thursday
    * Complete these reviews for your first 2 collaborative assignments:
@@ -240,8 +239,9 @@
       * [Partnering](https://forms.gle/XYWXsiAjaqzu2Pym8)
 
 ### Class 2
+   * The Wave versus Telephone versus Zip Zap Zop
+   * Different ways to form a line
    * Play-test Dear John
-   * Deconstruct Dear John example on paper
 
 #### Assignment for next Tuesday
    * Play [The Evolution of Trust](https://ncase.me/trust/)
@@ -255,8 +255,9 @@
 
 ## Week 9: Queuing continued
 ### Class 1
+   * Deconstruct Dear John example on paper
    * Why do we cheat? When do we cheat?
-   * Present concepts for queuing projects.
+   * Discuss concepts for queuing projects.
 
 ### Assignment
    * Prepare a draft version of your queuing project to test in class. (It can be analog.)
