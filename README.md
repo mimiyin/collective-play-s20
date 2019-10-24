@@ -251,7 +251,8 @@
 #### Assignment due in 1.5 weeks
    * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
    * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
-   * Be prepared to talk about rough ideas next week.
+   * You can get started by brainstorming all the different scenarios in life that involve being in a line.
+   * Be prepared for a check-in about rough ideas next week.
 
 
 ## Week 9: Queuing continued
