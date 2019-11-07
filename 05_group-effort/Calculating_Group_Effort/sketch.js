@@ -119,7 +119,8 @@ function draw() {
   let meansqs = 0;
   for (let i = 0; i < data.length; i++) {
     let d = data[i];
-    meansqs += (d * d);
+    let dev = abs(mean - data[i]);
+    meansqs += (dev * dev);
   }
   meansqs /= data.length;
   line(0, meansqs, width, meansqs);

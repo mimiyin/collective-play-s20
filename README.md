@@ -272,8 +272,10 @@
 ### Class 1: Play-test Queueing
 
 ### Class 2: Preview Group Effort
+   * [Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
 
 #### Assignment
+   * Come to class with at least 5 examples of Group Effort in real life. Think about who matters in those interactions?
    * Fill out (in)visible worksheet. (I will send out link after class.)
    * (Due in 2 weeks) Design and run an analog group interaction that tries to get as many people on the floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments) Think of this as a way to explore final project ideas.
    * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-f19/wiki/Group-Dynamics)
@@ -288,9 +290,9 @@
    * What is the line between groupthink and groupsync?
    * When do you want to be (in)visible?
 
-### Class 2
+### Class 1
 #### In-Class
-   * Analyze (in)visible responses.
+   * Discuss (in)visible responses.
    * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/) | [Where's Waldo](https://i.imgur.com/GG410zX.jpg)
 #### Resources
    * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)

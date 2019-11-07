@@ -33,7 +33,7 @@ io.sockets.on('connection', function (socket) {
     let room = socket.room;
 
     // Share data to all members of room
-    socket.to(room).emit('text', data);
+    io.sockets.to(room).emit('text', data);
   });
 
 
