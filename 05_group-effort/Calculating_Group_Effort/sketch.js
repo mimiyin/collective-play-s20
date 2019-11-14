@@ -76,14 +76,13 @@ function draw() {
 
   // Who matters?
   // The top person sets the standard by which everyone else is measured.
-  // But actually, their contribution to the mean is dampened compared to other methods.
-  let curve = 0;
+  // But actually, their contribution to the mean is dampened because it's normalized.
+  let curveSum = 0;
   for (let d of data) {
-    curve += d / top;
+    curveSum += d / top;
   }
-  curve /= data.length;
-  line(0, curve, width, curve);
-  text("CURVED MEAN", 500, curve);
+  line(0, curveSum, width, curveSum);
+  text("CURVED SUM", 500, curveSum);
 
   // ADD ABOVE MEAN, SUBTRACT BELOW MEAN
   // Who matters?
