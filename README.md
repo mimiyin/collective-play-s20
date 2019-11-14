@@ -298,7 +298,8 @@
    * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
    * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
    * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
-
+   * [How Easily Segregation Arises](https://www.citylab.com/design/2014/12/an-immersive-game-shows-how-easily-segregation-arisesand-how-we-might-fix-it/383586/)
+   
 ### Class 2
 #### In-Class
   * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
