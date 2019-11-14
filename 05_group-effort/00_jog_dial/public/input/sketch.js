@@ -31,15 +31,7 @@ function setup() {
 function draw() {
   background(0);
 
-  let movement = dist(accelerationX, accelerationY, accelerationZ, pAccelerationX, pAccelerationY, pAccelerationZ);
-  // Test with mouse
-  //let movement = dist(pmouseX, pmouseY, mouseX, mouseY);
-  fill(255, 10);
-  ellipse(width / 2, height / 2, movement, movement);
-  socket.emit('move', movement);
-  fill(255);
-  textSize(32);
-  text(movement, width / 2, (height / 2) - 100);
+  // Print number of shakes to the screen
   textSize(64);
   text(num, width / 2, height / 2);
 
@@ -56,10 +48,16 @@ function draw() {
 // Calculate size of shake
 // Send data
 function deviceShaken() {
+  // Ignore super fast shakes (noisy data)
   if (frameCount - lastShaken < 5) return;
+  // Count number of shakes
   num++;
+  // Draw a red background for every shake
   background('red');
+  // Calculate the number of frames that have elapsed since last shake
   interval = frameCount - lastShaken;
+  // Send time interval to server
   socket.emit('shake', interval);
+  // Update last shake framecount with current framecount
   lastShaken = frameCount;
 }

@@ -28,9 +28,8 @@ function draw() {
   stroke('black');
   // ADD DATA
   // Who matters?
-  // Depending on how you use this data, it can
-  // either be easy for 1 person to carry everyone,
-  // or everyone has to contribute to meet the goal.
+  // On some level, everyone.
+  // But bigger contributors, contribute more.
   let sum = 0;
   for (let d of data) {
     sum += d;
@@ -40,7 +39,8 @@ function draw() {
 
   // MEAN (AVERAGE)
   // Who matters?
-  // The majority rather than the minority.
+  // Same as ADD, but the more people there are,
+  // the impact of big contributors is dampened
   let mean = sum / data.length;
   line(0, mean, width, mean);
   text("MEAN", 50, mean);
@@ -75,17 +75,13 @@ function draw() {
   text("MIDPOINT", 100, midpoint);
 
   // Who matters?
-  // If top person is an outlier, everyone else loses.
-  // If top person is not much above average, everyone wins.
-  let curves = [];
-  for (let d of data) {
-    curves.push(d / top);
-  }
+  // The top person sets the standard by which everyone else is measured.
+  // But actually, their contribution to the mean is dampened compared to other methods.
   let curve = 0;
-  for (let c of curves) {
-    curve += c;
+  for (let d of data) {
+    curve += d / top;
   }
-  curve /= curves.length;
+  curve /= data.length;
   line(0, curve, width, curve);
   text("CURVED MEAN", 500, curve);
 
@@ -93,6 +89,8 @@ function draw() {
   // Who matters?
   // Values above the mean contribute.
   // Values below the mean take away.
+  // This is a way to raise the floor, or
+  // race to the bottom.
   let addSubtract = 0;
   for (let d of data) {
     if (d >= mean) addSubtract += d;

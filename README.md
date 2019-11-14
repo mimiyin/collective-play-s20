@@ -292,9 +292,9 @@
 
 ### Class 1
 #### In-Class
-   * Discuss (in)visible responses.
-   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/) | [Where's Waldo](https://i.imgur.com/GG410zX.jpg)
+   * Collective blindness.
 #### Resources
+   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/)
    * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
    * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
    * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
@@ -306,15 +306,15 @@
 
 #### Assignment for the week
    * Continue working on your analog group interaction. Consider what kind of group dynamics you want to address.
-   * Prepare a short presentation of your findings.
+   * Prepare a short presentation of your findings. Include documentation wherever possible. (Video, sound, images, diagrams.)
    * Include some early thoughts on how you might apply your findings to a digital expression of the ideas you're exploring.
 
 ***
 
 ## Weeks 12-14: Final Project Development
   * Week 12
-     * Class 1: Present human play test results
-     * Class 2: Present final project proposals
+     * Class 1: Discuss (In)Visible results
+     * Class 2: Present analog group effort results
   * Week 13 In-Class User Testing
   * Week 14 Final Presentations
 
