@@ -1,8 +1,7 @@
-# Collective Play Fall 19 Syllabus
-   * Tuesdays and Thursdays Noon-1:30PM in Room 408
+# Collective Play Spring 20 Syllabus
+   * Tuesdays 12:10PM - 3:05PM in Room ???
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
-   * [Spring 2019 Repository](https://github.com/mimiyin/collective-play-f19)
 
 ### [See course description below.](https://github.com/mimiyin/collective-play-f19#course-description)
 
@@ -16,31 +15,23 @@
    * [Glitch.com](https://glitch.com)
    * [Node Server](https://nodejs.org/en/)
 
-# Design Strategy 1: Every person for themselves
 
-## Week 1: Hello World
-### Class 1: Introductions
+***
+# Introduction
+
+## Week 1: Hello World, Hello Web Servers
 #### Question(s)
    * What is a group?
    * What is play?
    * Is this a programming class?
+   * What is a web server? Why do we need it?
+
 #### In-Class
    * Exercise: Hands
    * [Overview of Syllabus](https://docs.google.com/document/d/1HUGW8AHLQWfe9PBG3U9xTQ8ag-Xrbw2YayktwWijf5s/edit?usp=sharing)
    * Tech Tutorials:
       * Setting up you local development environment
       * CLI - Command Line Interface
-#### Assignment: Hello CLI
-   * [Set-up your local development environment](https://github.com/mimiyin/collective-play-f19/wiki/Set-up-your-local-development-environment)
-
-
-### Class 2: Hello Web Servers
-#### Question(s)
-   * What is a web server? Why do we need it?
-#### In-Class
-   * [Milgrim's Experiment](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s.
-   * Tech Tutorials
-      * CLI
       * Git
       * Using Atom
    * Code
@@ -48,6 +39,8 @@
       * Hello express
       * Hello glitch.com
 #### Assignment: Make a web server.
+   * Listen to [The Bad Show](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s. (See Transcript in Transcript tab.)
+   * [Set-up your local development environment](https://github.com/mimiyin/collective-play-f19/wiki/Set-up-your-local-development-environment)
    * Take a sketch you created in p5.js and serve it up locally on your computer.
    * Then put the exact same sketch up on [glitch.com](https://glitch.com)
    * Additional Resources
@@ -57,226 +50,146 @@
 ***
 
 ## Week 2: Hello Sockets
-### Class 1
 #### Question(s)
    * What are web sockets? Why do we need them?
 #### In-Class
-   * Exercise: Staring Contest
+   * Exercise: Introducing your neighbor...
    * Tech Tutorials
       * Hello sockets
+      * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
+      * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+         * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
+         * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
+         * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
+      * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
+      * Camera and Microphone
+         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
+         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
+         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
+         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
+      * Identifying Inputs
+         * Keeping track of inputs by id
+         * Normalizing data across clients
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
      * [Socket.IO - Emit cheatsheet](https://socket.io/docs/emit-cheatsheet/)
      * [Mozilla Developers Network](https://developer.mozilla.org/en-US/)
+     * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
+     * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
+     * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+
   * Videos
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
 
-#### Assignment:
-   * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
-   * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
-
-### Class 2: New inputs
-#### In-Class
-* Finish up inputs
-* Tech Tutorials
-   * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
-   * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
-      * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
-      * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
-      * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
-   * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
-   * Camera and Microphone
-      * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
-      * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
-      * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
-      * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
-   * Identifying Inputs
-      * Keeping track of inputs by id
-      * Normalizing data across clients
-
 #### Assignment: Identify Inputs
+  * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
+  * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
   * Take your input you're sending over sockets and keep track of who's sending it.
   * Bring 5 things to draw to the next class.
   * Wear clothes you can get dirty...forever.
 
 ***
 
-## Week 3: Expressive Outputs
-### Class 1: Capturing expression
+# Design Strategy 1: Creative Collisions
+
+## Week 3: Compete or Collaborate?
+
+   * Wrap-up sockets topics.
+
+#### Questions
+   * How do we find meaning as a group?
+   * How do we maximize creative collisions in collaboration?
+
 #### In-Class
    * Exercise: Collective Drawing
-   * Code
-      * Review identifying inputs
-      * Capturing expression
-         * [Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z): Press mouse to cycle through 4 modes.
-         * [Measuring Typing Speed](https://editor.p5js.org/mimiyin/sketches/osUkC5um-)
-#### Assignment: Capturing Expression in Inputs
-   * Capture expression through the keyboard, mouse, phone sensors, mic, camera and express it.
-      * [Inspiration](https://www.newyorker.com/cartoon/a22440)
+   * Exercise: Collective Self-Portrait
 
-### Class 2: Collecting the next layer of input (meta-inputs).
-#### Question(s)
-   * What does it mean to be expressive?
-   * What are the parameters of expression in:
-      * What you see
-      * What you hear
-#### In-Class
-   * Code Examples:
-      * [History of Mic Level](https://editor.p5js.org/mimi/sketches/zpxMgCvji)
-      * Separating inputs and outputs with namespaces
-         * [Glitch.com Namespaces Example](https://glitch.com/edit/#!/hello-world-namespaces)
-      * Expressive examples
-         * Pollacky
-         * Texteoke
-         * Finger Drumming
-   * Resources
-      * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
-
-#### Assignment: Expressive Outputs
-   * Diagram the _pollacky_ or _texteoke_ examples in Github and drop them in my mailbox by Tuesday 10AM.
-      * Server and clients
-      * Namespaces
-      * Event names
-      * Contents of data being sent
-      * Start and end points of data movement and indicate direction
-      * You can also attempt to diagram any parts of the code that are hard to understand.
-   * Show each other and discuss your expression assignments. The goal is to get people to go beyond what they normally do. How does it succeed? How could it be improved? Any new directions you want to explore?
-
-***
-
-## Week 4: Tableau
-### Class 1: Finish up expressive outputs examples
-#### Question(s)
-   * How do we maximize creative collisions in collaboration?
-#### In-Class
-   * Review diagrams.
-   * Collective self-portrait.
-
-#### Assignment: Expressive Outputs
-   * Experiment with expressive inputs and outputs. Divide up the work, everyone should post code. Ways you could divide up the work include:
-      * Each person tries a different input/output.
-      * You agree on an input and try different outputs.
-      * You agree on an output and try different intputs.
-      * Any combination or permutation of the above.
-   * Resources
-      * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
-      * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
-
-### Class 2: Meaning-making
-#### Question(s)
-   * How do we find meaning as a group?
-   * Semantics is the study of the meaning of words or lexical meaning. What about non-lexical semantics?
-   * Resources:
-      * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
-      * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
-
-#### In-Class
-   * Exercise(s): Deep Listening
+#### Resources:
+   * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
 
 #### Assignment: Create a Tableau
-   * Create something expressive that is meaningful with sockets.
+   * Create a collective creation experience that maximizes for inventive collisions with sockets.
    * [Questions to keep in mind.](https://github.com/mimiyin/collective-play-f19/wiki/Questions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
 
 ***
 
-## Week 5: Play-test Tableau Assignment
+## Week 4: Play-test Tableau Assignment
+
 #### Preview Partnering
    * Standing up together
+   * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
+
 #### Assignment:
-   * Post-Mortem
-      * [Fill out this worksheet.](https://docs.google.com/spreadsheets/d/1XHd1eqrjwo94Onusv52-8cFr7g6G1-lWYfsS6VtYZ20/edit?usp=sharing) Each team has a tab. Access with your NYU account.
-      * [Create a re-design brief](https://github.com/mimiyin/collective-play-f19/wiki/Re-Design-Brief)
+   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563)
 
 ***
 
 # Design Strategy 2: Partnering
 
-## Week 6: Influence or Interference?
-### Class 1:
+## Week 5: Influence or Interference?
+
 #### Question(s)
    * When does influence turn into interference?
    * Is it more fun to cooperate or undermine?
-#### In-Class
-* [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
 
-### Class 2
-* Mashing up inputs into pairs.
-   * Examples
-      * Ouija
-      * Twist and Shake | [glitch](https://glitch.com/edit/#!/tilt-and-shake) | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
-* Exercise(s): Human Ouija Board
+#### In-Class
+   * Exercise: Human Ouija Board
+   * Mashing up inputs into pairs.
+
+#### Examples
+   * Ouija
+   * Twist and Shake | [glitch](https://glitch.com/edit/#!/tilt-and-shake) | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
 
 #### Assignment: Partnering
-   * For groups of 2: You are responding to a call from a dating experiences start-up. They want to create experiences where couples can test how well they can communicate without using words or word-like gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
+   * In groups of 2: You are responding to a call to create dating experiences. They want to create experiences where couples can test how well they can communicate without using words or word-like gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
 
 ***
 
-## Week 7: Play-test Partnering Assignment
+## Week 6: Play-test Partnering Assignment
 
-#### Reflection
-   * What aspect of partnering does your project explore? e.g. The paired walking exercise helps us practice our ability to assert our individual will without drowning out our ability to listen to our partner.
+   * What aspect of partnering does your project explore?
+
+### Preview Queueing
+   * The Wave
+   * Telephone
+
+#### Assignment
+   * Play [The Evolution of Trust](https://ncase.me/trust/)
+
 
 ***
 
 # Design Strategy 3: Queuing
 
-## Week 8: Waiting versus Anticipating
-### Class 1
-   * Wrap up Partnering assignment
+## Week 7: Waiting versus Anticipating
 
 #### Question(s)
    * What's the difference between waiting and anticipating?
-   * What's the difference between taking turns and having a conversation?
+   * What's the difference between taking turns and dialogue?
 
 #### In-Class
-   * The Wave
-
-#### Assignment for Thursday
-   * Complete these reviews for your first 2 collaborative assignments:
-      * [Something Expressive and Meaningful](https://forms.gle/buFntmZDv4sbQZ7H7)
-      * [Partnering](https://forms.gle/XYWXsiAjaqzu2Pym8)
-
-### Class 2
-   * The Wave versus Telephone versus Zip Zap Zop
+   * Zip Zap Zop
    * Different ways to form a line
    * Play-test Dear John
 
-#### Assignment for next Tuesday
+#### Assignment
    * Complete life-size paper diagram of 04_queueing/00_human-auto-complete
-   * Play [The Evolution of Trust](https://ncase.me/trust/)
-   * Read [NYU Prof Vows Never to Probe Cheating Again—and Faces a Backlash](https://www.chronicle.com/blogs/wiredcampus/nyu-prof-vows-never-to-probe-cheating-again%E2%80%94and-faces-a-backlash/32351)
-
-#### Assignment due in 1.5 weeks
-   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
-   * You can get started by brainstorming all the different scenarios in life that involve being in a line.
-   * Be prepared for a check-in about rough ideas next week.
-
-
-## Week 9: Queuing continued
-### Class 1
-   * Deconstruct Dear John example on paper
-   * Why do we cheat? When do we cheat?
-   * Discuss concepts for queuing projects.
-
-### Assignment
-   * Prepare a draft version of your queuing project to test in class. (It can be analog.)
-
-### Class 2
-   * Play-test draft version of your queuing project.
-
-## Week 10: Play-test Queueing
-
-### Class 1: Play-test Queueing
-
-### Class 2: Preview Group Effort
-   * [Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
 
 #### Assignment
-   * Come to class with at least 5 examples of Group Effort in real life. Think about who matters in those interactions?
-   * Fill out (in)visible worksheet. (I will send out link after class.)
+   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
+
+## Week 8: Play-test Queueing
+
+### Preview Group Effort
+   * Exercise: Tuning Meditation
+   * Collective blindness.
+   * [Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
+   * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
+
+#### Assignment
    * (Due in 2 weeks) Design and run an analog group interaction that tries to get as many people on the floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments) Think of this as a way to explore final project ideas.
    * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-f19/wiki/Group-Dynamics)
 
@@ -284,26 +197,18 @@
 
 # Design Strategy 4: Group Effort
 
-## Week 11: Losing the Individual to the Group
+## Week 9: Losing the Individual to the Group
 
 #### Questions
    * What is the line between groupthink and groupsync?
-   * When do you want to be (in)visible?
 
-### Class 1
 #### In-Class
-   * Collective blindness.
+   * Collective clapping.
+   * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
+   * Present ideas on analog group interaction.
+
 #### Resources
-   * [No "Man" Left Behind](https://news.nationalgeographic.com/2017/04/ants-rescues-soldiers-injured-africa/)
-   * [Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds) | [Guess # of Jelly Beans](https://www.youtube.com/watch?v=IGp0ivFTuV4) | [When Wisdom of Crowds Goes Wrong](http://www.bbc.com/future/story/20140708-when-crowd-wisdom-goes-wrong)
-   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563) | [FOLI](https://www.youtube.com/watch?v=lVPLIuBy9CY)
-   * [Who has the right to review? The expert critic or everyone?](https://harpers.org/archive/2019/04/like-this-or-die/)
    * [How Easily Segregation Arises](https://www.citylab.com/design/2014/12/an-immersive-game-shows-how-easily-segregation-arisesand-how-we-might-fix-it/383586/)
-   
-### Class 2
-#### In-Class
-  * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
-  * [Calculating "Averages"](https://editor.p5js.org/mimi/sketches/cPtOloDf6)
 
 #### Assignment for the week
    * Continue working on your analog group interaction. Consider what kind of group dynamics you want to address.
@@ -312,12 +217,10 @@
 
 ***
 
-## Weeks 12-14: Final Project Development
-  * Week 12
-     * Class 1: Discuss (In)Visible results
-     * Class 2: Present analog group effort results
-  * Week 13 In-Class User Testing
-  * Week 14 Final Presentations
+## Weeks 10-12: Final Project Development
+  * Week 10 Present analog group effort results
+  * Week 11 In-Class User Testing
+  * Week 12 Final Presentations
 
 ***
 ***
