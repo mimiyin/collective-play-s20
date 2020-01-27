@@ -1,13 +1,13 @@
 {
-  "name": "cp-f19",
+  "name": "cp-f20",
   "version": "1.0.0",
-  "description": "Examples for Collective Play Fall 2019. NYU-ITP",
+  "description": "Examples for Collective Play Spring 2020. NYU-ITP",
   "author": {
     "name": "Mimi Yin",
     "email": "mimi.yin@nyu.edu"
   },
   "dependencies": {
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.3.0",
     "express": "^4.17.1"
   }
 }
