@@ -38,6 +38,10 @@
       * Hello node
       * Hello express
       * Hello glitch.com
+   * Existentialism
+      * [Notes on Existentialism from a Lecture by Andrew Irvine](http://people.bu.edu/wwildman/WeirdWildWeb/courses/wphil/lectures/wphil_theme20.htm)
+      * [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
+      
 #### Assignment: Make a web server.
    * Listen to [The Bad Show](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s. (See Transcript in Transcript tab.)
    * [Set-up your local development environment](https://github.com/mimiyin/collective-play-f19/wiki/Set-up-your-local-development-environment)
