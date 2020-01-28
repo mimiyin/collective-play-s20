@@ -43,10 +43,11 @@
       * Who's on First - Abbott & Costello: [Video](https://youtu.be/kTcRRaXV-fg?t=75), [Transcript](https://genius.com/Abbott-and-costello-whos-on-first-annotated) | [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
 
 #### Assignment: Make a web server.
-   * Listen to [The Bad Show](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s. (See Transcript in Transcript tab.)
+   * The ultimate absurdity: Listen to [The Bad Show](https://www.wnycstudios.org/story/bad-show): First 26 minutes. Twist at 19m15s. (See Transcript in Transcript tab.)
+   * Write a few sentences describing an absurd social situation that involved you and at least 1 other person. Be specific about what was absurd about it and describe how you responded. [Post a link to it here.](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-1).
    * [Set-up your local development environment](https://github.com/mimiyin/collective-play-f19/wiki/Set-up-your-local-development-environment)
    * Take a sketch you created in p5.js and serve it up locally on your computer.
-   * Then put the exact same sketch up on [glitch.com](https://glitch.com)
+   * Then put the exact same sketch up on [glitch.com](https://glitch.com) and [post a link here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-1).
    * Additional Resources
       * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
       * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
