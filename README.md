@@ -71,9 +71,6 @@
      * [Socket.IO - Get Started](https://socket.io/get-started/)
      * [Socket.IO - Emit cheatsheet](https://socket.io/docs/emit-cheatsheet/)
      * [Mozilla Developers Network](https://developer.mozilla.org/en-US/)
-     * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
-     * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
-     * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
   * Videos
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
@@ -126,6 +123,10 @@
 
 #### Resources:
    * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+   * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
+   * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
+   * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+
 
 #### Assignment: Create a Tableau
    * Create a collective creation experience that maximizes for inventive collisions with sockets.
