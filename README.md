@@ -110,16 +110,18 @@
 
 ## Week 3: Compete or Collaborate?
 
-   * Wrap-up sockets topics.
-      * Namespacing to separate inputs and outputs
-      * Normalizing data across clients
-
 #### Questions
    * How do we find meaning as a group?
    * How do we maximize creative collisions in collaboration?
 
 #### In-Class
    * Exercise: Collective Drawing
+
+#### Technical Topics
+   * Wrap-up sockets topics.
+      * Namespacing to separate inputs and outputs
+      * Normalizing data across clients
+   * Phone sensors.
 
 #### Resources:
    * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
