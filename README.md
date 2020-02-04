@@ -94,8 +94,8 @@
       * [Live Reporting of Iowa: 2020](https://www.nytimes.com/interactive/2020/02/03/us/elections/results-iowa-caucus-live-updates.html)
 
 #### Assignment: Identify Inputs
-  * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events) and keep track of who's sending it.
-  * Diagram to the best of your ability 04_sockets-with-namespaces in 00_helloworld. If that's easy, try 00_pollacky and 01_texteoke in 01_expression. [See example here.](https://drive.google.com/file/d/1ch2KA9oANGOVkKgkRRWCb9FRMb71RS_0/view?usp=sharing)
+  * Pick an input and send it over sockets. You can use _03_sockets-with-ids_ in _00_helloworld_ as a starting point.
+  * Diagram to the best of your ability _04_sockets-with-namespaces_ in _00_helloworld_. If that's easy, try _00_pollacky_ and _01_texteoke_ in _01_expression_. [See example here.](https://drive.google.com/file/d/1ch2KA9oANGOVkKgkRRWCb9FRMb71RS_0/view?usp=sharing)
      * Include a server and some clients.
      * Label events with event names and draw and arrow to specify the direction of data flow.
      * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
