@@ -56,9 +56,12 @@
 
 ## Week 2: Hello Sockets
 #### Question(s)
+   * What makes something absurd?
    * What are web sockets? Why do we need them?
+
 #### In-Class
-   * Exercise: Introducing your neighbor...
+   * Collective self-portrait
+   * Make a dance
    * Tech Tutorials
       * Hello sockets
       * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
@@ -74,7 +77,6 @@
          * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
       * Identifying Inputs
          * Keeping track of inputs by id
-         * Normalizing data across clients
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
@@ -86,12 +88,16 @@
 
   * Videos
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
+     * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
 #### Assignment: Identify Inputs
-  * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
-  * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events)
-  * Take your input you're sending over sockets and keep track of who's sending it.
-  * Bring 5 things to draw to the next class.
+  * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events) and keep track of who's sending it.
+  * Diagram to the best of your ability 00_pollacky and 01_texteoke in 01_expression.
+     * Include a server and at least 2 clients
+     * Label events with event names and draw and arrow to specify the direction of data flow.
+     * Specify the data being sent with each event.
+     * Bonus is to also diagram the logic in the code.
+  * Bring 5 things to draw with to the next class. Look through your garbage.
   * Wear clothes you can get dirty...forever.
 
 ***
@@ -101,6 +107,8 @@
 ## Week 3: Compete or Collaborate?
 
    * Wrap-up sockets topics.
+      * Namespacing to separate inputs and outputs
+      * Normalizing data across clients
 
 #### Questions
    * How do we find meaning as a group?
@@ -108,7 +116,6 @@
 
 #### In-Class
    * Exercise: Collective Drawing
-   * Exercise: Collective Self-Portrait
 
 #### Resources:
    * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
