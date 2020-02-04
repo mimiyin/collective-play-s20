@@ -57,24 +57,13 @@
 ## Week 2: Hello Sockets
 #### Question(s)
    * What makes something absurd?
+   * How do we make decisions in groups?
    * What are web sockets? Why do we need them?
 
 #### In-Class
-   * Collective self-portrait
-   * Make a dance
+   * Silent Caucus
    * Tech Tutorials
       * Hello sockets
-      * Review mouse and keyboard [events](http://p5js.org/reference/#group-Events)
-      * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
-         * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
-         * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
-         * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
-      * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
-      * Camera and Microphone
-         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
-         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
-         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
-         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
       * Identifying Inputs
          * Keeping track of inputs by id
   * Additional Resources
@@ -90,13 +79,31 @@
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
      * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
+   * Data you could send     
+      * Mouse and keyboard [events](http://p5js.org/reference/#group-Events)
+      * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+         * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
+         * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
+         * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
+      * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
+      * Camera and Microphone
+         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
+         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
+         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
+         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
+   * More on Iowa
+      * [Inside Iowa Caucus: 2008](https://www.youtube.com/watch?v=Cnh-136QqO8)
+      * [A Very Long Night in Iowa: 2020](https://www.nytimes.com/2020/02/04/podcasts/the-daily/iowa-caucus-results.html)
+      * [Live Reporting of Iowa: 2020](https://www.nytimes.com/interactive/2020/02/03/us/elections/results-iowa-caucus-live-updates.html)
+
 #### Assignment: Identify Inputs
   * Pick an input and send it over sockets. | [See "Events"](http://p5js.org/reference/#group-Events) and keep track of who's sending it.
-  * Diagram to the best of your ability 00_pollacky and 01_texteoke in 01_expression.
-     * Include a server and at least 2 clients
+  * Diagram to the best of your ability 04_sockets-with-namespaces in 00_helloworld. If that's easy, try 00_pollacky and 01_texteoke in 01_expression. [See example here.](https://drive.google.com/file/d/1ch2KA9oANGOVkKgkRRWCb9FRMb71RS_0/view?usp=sharing)
+     * Include a server and some clients.
      * Label events with event names and draw and arrow to specify the direction of data flow.
-     * Specify the data being sent with each event.
+     * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
      * Bonus is to also diagram the logic in the code.
+     * Bring your diagrams to class and we will unpack it together.
   * Bring 5 things to draw with to the next class. Look through your garbage.
   * Wear clothes you can get dirty...forever.
 

@@ -20,9 +20,8 @@ function setup(){
 
     // Update user's data
     if(id in users) {
-      let user = users[id];
-      user.ppos = user.pos;
-      user.pos = data;
+      users[id].ppos = users[id].pos;
+      users[id].pos = data;
     }
     // Or create a new user
     else {
@@ -51,10 +50,7 @@ function draw() {
     // Draw the latest line segment
     line(ppos.x, ppos.y, pos.x, pos.y);
   }
-}
 
-// Send mouse info
-function mouseMoved(){
-  // Send mouse position
+  // Send mouse info
   socket.emit('data', {x: mouseX, y: mouseY});
 }
