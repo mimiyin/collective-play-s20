@@ -61,7 +61,7 @@
    * What are web sockets? Why do we need them?
 
 #### In-Class
-   * Silent Caucus
+   * Improv Exercise: Silent Caucus
    * Tech Tutorials
       * Hello sockets
       * Identifying Inputs
@@ -94,7 +94,7 @@
       * [Live Reporting of Iowa: 2020](https://www.nytimes.com/interactive/2020/02/03/us/elections/results-iowa-caucus-live-updates.html)
 
 #### Assignment: Identify Inputs
-  * Pick an input and send it over sockets. You can use _03_sockets-with-ids_ in _00_helloworld_ as a starting point.
+  * Pick an input and send it over sockets. You can use _03_sockets-with-ids_ in _00_helloworld_ as a starting point. Put it on glitch.com and [post a link here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-2-hello-sockets)
   * Diagram to the best of your ability _04_sockets-with-namespaces_ in _00_helloworld_. If that's easy, try _00_pollacky_ and _01_texteoke_ in _01_expression_. [See example here.](https://drive.google.com/file/d/1ch2KA9oANGOVkKgkRRWCb9FRMb71RS_0/view?usp=sharing)
      * Include a server and some clients.
      * Label events with event names and draw and arrow to specify the direction of data flow.
@@ -115,13 +115,15 @@
    * How do we maximize creative collisions in collaboration?
 
 #### In-Class
-   * Exercise: Collective Drawing
+   * Improv Exercise: Collective Drawing
+   * Improv Exercise: Make a little dance
 
 #### Technical Topics
    * Wrap-up sockets topics.
       * Namespacing to separate inputs and outputs
       * Normalizing data across clients
-   * Phone sensors.
+   * Phone sensors
+   * Real-time typing
 
 #### Resources:
    * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
