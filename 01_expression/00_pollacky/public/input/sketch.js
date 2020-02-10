@@ -33,24 +33,10 @@ function draw(){
   lr = constrain(lr, -90, 90);
   tb = constrain(tb, -90, 90);
 
-  // Map rotation to alpha range
-  let lra = map(lr, -90, 90, 255, 0)
-  let tba = map(tb, -90, 90, 255, 0)
-
-
-  // Transparency reflects degree of tilt
-  // Left Half
-  fill(0, lra);
-  rect(0, 0, width/2, height);
-  // Right Half
-  fill(0, 255-lra);
-  rect(width/2, 0, width/2, height);
-  // Top Half
-  fill(0, tba);
-  rect(0, 0, width, height/2);
-  // Bottom Half
-  fill(0, 255-tba);
-  rect(0, height/2, width, height);
+  // Map rotationYZ to XY location on the screen
+  let x = map(rotationY, -90, 90, 0, width);
+  let y = map(rotationX, -90, 90, 0, height);
+  ellipse(x, y, 50, 50);
 
   // Send tilt angle
   socket.emit('tilt', {x: lr, y: tb});

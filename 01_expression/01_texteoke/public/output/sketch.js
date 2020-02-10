@@ -73,7 +73,7 @@ function draw() {
     let user = users[id];
     let txt = user.text;
     let pos = user.pos;
-    let speed = pow(5000000/user.speed, .75);
+    let speed = pow(5000000/user.speed, .67);
     textSize(speed);
     text(txt, pos.x, pos.y);
   }
