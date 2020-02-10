@@ -133,9 +133,8 @@
 
 
 #### Assignment: Create a Tableau
-   * Create a collective creation experience that maximizes for inventive collisions with sockets.
-   * [Questions to keep in mind.](https://github.com/mimiyin/collective-play-f19/wiki/Questions)
-   * [Post a link to your project here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#assignment-1-create-an-experience-for-3-people)
+   * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s20/wiki/Study-No.-1:-Creative-Collistions)
+   * [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-3-creative-collisions)
 
 ***
 
