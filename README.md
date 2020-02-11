@@ -132,13 +132,13 @@
    * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
 
-#### Assignment: Create a Tableau
+#### Assignment: Creative Collisions
    * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s20/wiki/Study-No.-1:-Creative-Collistions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-3-creative-collisions)
 
 ***
 
-## Week 4: Play-test Tableau Assignment
+## Week 4: Play-test Creative Collisions Assignment
 
 #### Preview Partnering
    * Standing up together
