@@ -127,7 +127,7 @@
 
 #### Resources:
    * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
-   * Install Sensor Kinetics:[iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
+   * Install Sensor Kinetics: [iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
    * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
    * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
