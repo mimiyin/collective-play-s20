@@ -116,12 +116,10 @@
 
 #### In-Class
    * Improv Exercise: Collective Drawing
-   * Improv Exercise: Make a little dance
 
 #### Technical Topics
    * Wrap-up sockets topics.
       * Namespacing to separate inputs and outputs
-      * Normalizing data across clients
    * Phone sensors
    * Real-time typing
 
@@ -134,7 +132,7 @@
 
 
 #### Assignment: Creative Collisions
-   * [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+   * Inspiration: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
    * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s20/wiki/Study-No.-1:-Creative-Collistions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-3-creative-collisions)
 
