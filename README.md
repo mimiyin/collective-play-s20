@@ -106,9 +106,9 @@
 
 ***
 
-# Design Strategy 1: Creative Collisions
+# Design Strategy 1: Creative Collaborations
 
-## Week 3: Compete or Collaborate?
+## Week 3: Compromise or Collide?
 
 #### Questions
    * How do we find meaning as a group?
@@ -131,21 +131,23 @@
    * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
 
-#### Assignment: Creative Collisions
+#### Assignment: Creative Collaborations
    * Inspiration: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
    * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s20/wiki/Study-No.-1:-Creative-Collistions)
    * [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-3-creative-collisions)
 
 ***
 
-## Week 4: Play-test Creative Collisions Assignment
+## Week 4: Play-test Creative Collaborations Assignment
 
 #### Preview Partnering
    * Standing up together
-   * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
 
 #### Assignment:
-   * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563)
+   * Before you start, watch these:
+      * [Steven Strogatz: Science of Sync](https://www.ted.com/talks/steven_strogatz_on_sync?language=en#t-1186563)
+      * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
+   * Design a way to walk around with your partner without talking or gesturing that keeps you in sync. Your design should discourage leading / following. Practice it together!
 
 ***
 
@@ -159,11 +161,9 @@
 
 #### In-Class
    * Exercise: Human Ouija Board
-   * Mashing up inputs into pairs.
 
 #### Examples
    * Ouija
-   * Twist and Shake | [glitch](https://glitch.com/edit/#!/tilt-and-shake) | [Translator Impaired](https://www.youtube.com/watch?v=uOG4FD2X5MQ&t=26s)
 
 #### Assignment: Partnering
    * In groups of 2: You are responding to a call to create dating experiences. They want to create experiences where couples can test how well they can communicate without using words or word-like gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
