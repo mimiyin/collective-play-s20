@@ -16,7 +16,6 @@ socket.on('connect', function() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textAlign(CENTER);
 }
 
 function draw(){
