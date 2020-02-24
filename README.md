@@ -153,20 +153,25 @@
 
 # Design Strategy 2: Partnering
 
-## Week 5: Influence or Interference?
+## Week 5: Influence or Instruction?
 
 #### Question(s)
-   * When does influence turn into interference?
-   * Is it more fun to cooperate or undermine?
+   * Is it possible to lead without leading? Follow without following?
+   * Is complete equality possible in a relationship?
+
 
 #### In-Class
    * Exercise: Human Ouija Board
+   * Exercise: Speaking in One Voice
 
 #### Examples
-   * Ouija
+   * Human Ouija
 
 #### Assignment: Partnering
-   * In groups of 2: You are responding to a call to create dating experiences. They want to create experiences where couples can test how well they can communicate without using words or word-like gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
+   * In groups of 2: You are responding to a call to create dating experiences where couples can test how well they can communicate without using words or symbolic gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
+   * Pay special attention to the physical set-up of your interaction. How will people communicate if not through words and gestures?
+   * Include a diagram of your code and instructions for the experience. [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-5-pairs)
+
 
 ***
 

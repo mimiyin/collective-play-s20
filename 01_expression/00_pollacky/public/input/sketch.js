@@ -34,8 +34,8 @@ function draw(){
   tb = constrain(tb, -90, 90);
 
   // Map rotationYZ to XY location on the screen
-  let x = map(rotationY, -90, 90, 0, width);
-  let y = map(rotationX, -90, 90, 0, height);
+  let x = map(lr, -90, 90, 0, width);
+  let y = map(tb, -90, 90, 0, height);
   ellipse(x, y, 50, 50);
 
   // Send tilt angle

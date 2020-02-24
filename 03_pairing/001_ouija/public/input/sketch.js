@@ -1,14 +1,18 @@
-// Grab user number from the url
-let u = window.location.search;
+// Asking for permision for motion sensors on iOS 13+ devices
+if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+  document.body.addEventListener('click', function () {
+    DeviceOrientationEvent.requestPermission();
+    DeviceMotionEvent.requestPermission();
+  })
+}
 
 // Open and connect input socket
 let socket = io('/input');
 
 // Listen for confirmation of connection
-socket.on('connect', function () {
+socket.on('connect', function() {
   console.log("Connected");
 });
-
 
 // Keep track of partners
 let users = {};
@@ -16,7 +20,7 @@ let users = {};
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  // Listen for message from partners
+    // Listen for message from partners
   socket.on('message', function (message) {
     let id = message.id;
     let data = message.data;
@@ -29,28 +33,24 @@ function setup() {
   });
 }
 
-function draw() {
+function draw(){
   background(255);
-  // Draw a dot for each user
   noStroke();
+  fill(0);
 
-  // Draw mouse position
-  fill('red');
-  ellipse(mouseX, mouseY, 50, 50);
-
-  // Send proportional, normalized mouse data
-  let x = mouseX / width;
-  let y = mouseY / height;
-
-  // Flip data for user 1
-  if(u == '?u=1') {
-    x = 1-x;
-    y = 1-y;
+  for (let u in users) {
+    let user = users[u];
+    // If this user is me, make it red
+    if (u == socket.id) fill('red');
+    // Otherwise, blue
+    else fill('blue');
+    ellipse(user.x, user.y, 50, 50);
   }
 
-  // Emit the data
-  socket.emit('data', {
-    x: x,
-    y: y
-  });
+  // Map rotation to x,y location on the screen
+  let x = map(rotationY, -90, 90, 0, width);
+  let y = map(rotationX, -90, 90, 0, height);
+
+  // Send tilt angles as normalized x,y coordinates
+  socket.emit('data', {x: x / width, y: y / height});
 }
