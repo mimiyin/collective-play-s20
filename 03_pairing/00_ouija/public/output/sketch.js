@@ -34,9 +34,9 @@ function draw() {
 
   // Calculate avgPos of users
   let avgPos = { x: 0, y: 0 };
-  let num = 0;
-  // Previous user
-  let puser;
+  let counter = 0;
+  // Array of users
+  let users_arr = [];
 
   // Loop through users to calculate average position
   // and check distance between users
@@ -46,24 +46,26 @@ function draw() {
     avgPos.x += user.x;
     avgPos.y += user.y;
 
-    // Check distance between this user and first user
-    if(puser) {
-      let d = dist(user.x, user.y, puser.x, puser.y);
-      if(d > 250) background(255);
-    }
-
-    // Remember first user as previous user for next time through loop
-    if(num == 0) puser = users[u];
+    // Store user in array of users
+    users_arr[counter] = users[u];
 
     // Keep counting
-    num++;
+    counter++;
   }
-  avgPos.x /= num;
-  avgPos.y /= num;
+
+  // Check distance between 1st 2 users
+  if(users_arr.length > 1) {
+    let d = dist(users_arr[0].x, users_arr[0].y, users_arr[1].x, users_arr[1].y);
+    if(d > 250) background(255);
+  }
+
+  // Calculate average position
+  avgPos.x /= users_arr.length;
+  avgPos.y /= users_arr.length;
 
   // Only draw if there's a previous average position
   // And more than 1 person is drawing
-  if (pAvgPos && num > 1) {
+  if (pAvgPos && users_arr.length > 1) {
     // Draw line of average positions
     stroke(0);
     line(pAvgPos.x, pAvgPos.y, avgPos.x, avgPos.y);
