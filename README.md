@@ -168,8 +168,9 @@
    * Human Ouija
 
 #### Assignment: Partnering
-   * In groups of 2: You are responding to a call to create dating experiences where couples can test how well they can communicate without using words or symbolic gestures. Is the other person a good listener? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
-   * Pay special attention to the physical set-up of your interaction. How will people communicate if not through words and gestures?
+   * In groups of 2: You are responding to a call to create dating experiences where couples can test how well they can communicate without using words or symbolic gestures. Is the other person a good "listener"? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
+   * Pay special attention to the physical set-up of your interaction. How will people communicate if not through words and gestures? (e.g. Direct contact? Contact through a 3rd object? Eyes? Sound? Extra-Sensory-Perception?)
+   * [Questions to consider.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
    * Include a diagram of your code and instructions for the experience. [Post a link to your project here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-5-pairs)
 
 
