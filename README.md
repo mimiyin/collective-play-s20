@@ -182,9 +182,10 @@
 
 ### Preview Queueing
    * The Wave
-   * Telephone
+   * Telephone | [Spreadsheet](https://docs.google.com/spreadsheets/d/18d3u--NrGkKuZ8SG7UTcxAfxahTzu1atDkByWZZhSJo/edit?usp=sharing)
 
 #### Assignment
+   * Come up with at least 5 examples of situations where you have to wait in line. Come up with at least 1 variable of "waiting in line" situations. Don't repeat what's already on the list. [Throw them in this spreadsheet](https://docs.google.com/spreadsheets/d/115OVqXi_P8AKTPoDP0J5fjFofD37XJb8xgzBxlBiGAA/edit?usp=sharing). Be as specific as possible.
    * Play [The Evolution of Trust](https://ncase.me/trust/)
 
 
