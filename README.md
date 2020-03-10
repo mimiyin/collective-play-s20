@@ -182,7 +182,6 @@
 
 ### Preview Queueing
    * The Wave
-   * Telephone | [Spreadsheet](https://docs.google.com/spreadsheets/d/18d3u--NrGkKuZ8SG7UTcxAfxahTzu1atDkByWZZhSJo/edit?usp=sharing)
 
 #### Assignment
    * Come up with at least 5 examples of situations where you have to wait in line. Come up with at least 1 variable of "waiting in line" situations. Don't repeat what's already on the list. [Throw them in this spreadsheet](https://docs.google.com/spreadsheets/d/115OVqXi_P8AKTPoDP0J5fjFofD37XJb8xgzBxlBiGAA/edit?usp=sharing). Be as specific as possible.
@@ -200,17 +199,14 @@
    * What's the difference between taking turns and dialogue?
 
 #### In-Class
-   * Telephone | [Spreadsheet](https://docs.google.com/spreadsheets/d/1ySCJfEeL_8rGZ2OtZxk1nKWrw9qxljNH8chpRoggVYs/edit?usp=sharing)
+* Telephone | [Spreadsheet](https://docs.google.com/spreadsheets/d/18d3u--NrGkKuZ8SG7UTcxAfxahTzu1atDkByWZZhSJo/edit?usp=sharing)
    * Zip Zap Zop
    * Different ways to form a line
-   * Play-test Dear John
+   * Play-test Dear Jordan
 
 #### Assignment
-   * Complete life-size paper diagram of 04_queueing/00_human-auto-complete
-
-#### Assignment
-   * Groups of 3 or 4: Make a queuing project. | [Post links here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments#queues-create-an-experience-where-people-their-turn)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f19/wiki/Parameters-of-Queues) you're exploring.
+   * Groups 4: Make a queuing project for at least 5 people. Prepare your instructions for the play-test. | [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-6-queues)
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f20/wiki/Parameters-of-Queues) you're exploring.
 
 ## Week 8: Play-test Queueing
 
