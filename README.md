@@ -206,7 +206,7 @@
 
 #### Assignment
    * Groups 4: Make a queuing project for at least 5 people. Prepare your instructions for the play-test. | [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-6-queues)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-f20/wiki/Parameters-of-Queues) you're exploring.
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s20/wiki/Parameters-of-Queues) you're exploring.
 
 ## Week 8: Play-test Queueing
 
