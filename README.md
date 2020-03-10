@@ -200,6 +200,7 @@
    * What's the difference between taking turns and dialogue?
 
 #### In-Class
+   * Telephone | [Spreadsheet](https://docs.google.com/spreadsheets/d/1ySCJfEeL_8rGZ2OtZxk1nKWrw9qxljNH8chpRoggVYs/edit?usp=sharing)
    * Zip Zap Zop
    * Different ways to form a line
    * Play-test Dear John
