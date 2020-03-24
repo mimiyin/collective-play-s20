@@ -211,14 +211,12 @@
 ## Week 8: Play-test Queueing
 
 ### Preview Group Effort
-   * Exercise: Tuning Meditation
-   * Collective blindness.
-   * [Dancing Guy](https://www.youtube.com/watch?v=fW8amMCVAJQ)
-   * [Pauline Oliveros: Tuning Meditation](https://www.youtube.com/watch?v=g5bj8sO2-WY)
+   * Aggregates and Statistics: Can you see the trees in the forest?
 
 #### Assignment
-   * (Due in 2 weeks) Design and run an analog group interaction that tries to get as many people on the floor participating. Document the event. Post your documentation to your blog and [link to it here](https://github.com/mimiyin/collective-play-f19/wiki/Assignments) Think of this as a way to explore final project ideas.
-   * Take into consideration [what we discussed in class](https://github.com/mimiyin/collective-play-f19/wiki/Group-Dynamics)
+   * Listen / Read [Who Am I?](https://www.wnycstudios.org/podcasts/radiolab/episodes/91496-who-am-i)
+   * Read [How Easily Segregation Arises](https://www.citylab.com/design/2014/12/an-immersive-game-shows-how-easily-segregation-arisesand-how-we-might-fix-it/383586/)
+   * Fill out (in)visible worksheet. (I will send out link after class.)
 
 ***
 
@@ -227,25 +225,22 @@
 ## Week 9: Losing the Individual to the Group
 
 #### Questions
-   * What is the line between groupthink and groupsync?
+   * When are you seen?
 
 #### In-Class
-   * Collective clapping.
    * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
-   * Present ideas on analog group interaction.
+   * Discuss (in)visible.
+   * Discuss readings.
+   * Compare portraits by Diane Arbus and Martin Schoeller's "Honest" portraits.
 
-#### Resources
-   * [How Easily Segregation Arises](https://www.citylab.com/design/2014/12/an-immersive-game-shows-how-easily-segregation-arisesand-how-we-might-fix-it/383586/)
-
-#### Assignment for the week
-   * Continue working on your analog group interaction. Consider what kind of group dynamics you want to address.
-   * Prepare a short presentation of your findings. Include documentation wherever possible. (Video, sound, images, diagrams.)
-   * Include some early thoughts on how you might apply your findings to a digital expression of the ideas you're exploring.
+#### Assignment for next week
+   * Take a self-portrait of yourself that you feel represents how you are feeling right now. Take at least 20 to get it right. In a blog post, show 10 you discarded and why you discarded them. [Post it here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-self-portraits)
+   * Prepare 5 minute presentation of ideas for final projects. Guidelines coming soon. Design an 5 minute activity we can try in class over Zoom. [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
 
 ***
 
 ## Weeks 10-12: Final Project Development
-  * Week 10 Present analog group effort results
+  * Week 10 In-Class Presentations
   * Week 11 In-Class User Testing
   * Week 12 Final Presentations
 
