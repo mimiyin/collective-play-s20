@@ -229,6 +229,7 @@
 
 #### In-Class
    * [Notes](https://docs.google.com/document/d/1gfthpudUPTh9TjkY_MM3aVSJndSSPf91zB7BUIymIMc/edit?usp=sharing)
+   * [Essay on Kant's Anschauungen](https://philosophynow.org/issues/31/Kant_and_the_Thing_in_Itself)
    * Discuss (in)visible.
    * Discuss readings.
    * Compare portraits by Diane Arbus and Martin Schoeller's "Honest" portraits.
@@ -240,7 +241,7 @@
          * [The Technique Behind Martin Schoeller's Photography](https://www.smithsonianmag.com/smithsonian-institution/the-technique-behind-martin-schoellers-photography-17906064/)
       * Then take your protraits. Take at least 10 of each to get it right. In a single blog post, show all 40 images, the final 4 you selected and write a sentence for each of the other 36 to explain why you discarded them. [Post it here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-portraits)
    * Partner up for the final. (Link to spreadsheet coming.)
-   * Prepare a short activity to try in class. [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
+   * Prepare a short activity to try in class. [Post instructions by Monday evening here.](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
 
 ***
 
