@@ -228,19 +228,24 @@
    * When are you seen?
 
 #### In-Class
-   * Play test "Jog Wheel": [Inputs](https://jog-wheel.glitch.me/input/) | [Output](https://jog-wheel.glitch.me/output/)
+   * [Notes](https://docs.google.com/document/d/1gfthpudUPTh9TjkY_MM3aVSJndSSPf91zB7BUIymIMc/edit?usp=sharing)
    * Discuss (in)visible.
    * Discuss readings.
    * Compare portraits by Diane Arbus and Martin Schoeller's "Honest" portraits.
 
 #### Assignment for next week
-   * Take a self-portrait of yourself that you feel represents how you are feeling right now. Take at least 20 to get it right. In a blog post, show 10 you discarded and why you discarded them. [Post it here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-self-portraits)
-   * Prepare 5 minute presentation of ideas for final projects. Guidelines coming soon. Design an 5 minute activity we can try in class over Zoom. [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
+   * How Do You Feel Right Now? Take a self-portrait and a portrait of your partner that reflects how you're feeling right now.
+      * First Read:
+         * [The Art of Diane Arbus](https://drive.google.com/file/d/1PAaq7VEzP89apmlesnhthOCPqPru7vfQ/view?usp=sharing) | [Photographs](https://drive.google.com/drive/folders/1lwYFpjJpCSCjAXvZD8jb06gy_VGCHLrL?usp=sharing)
+         * [The Technique Behind Martin Schoeller's Photography](https://www.smithsonianmag.com/smithsonian-institution/the-technique-behind-martin-schoellers-photography-17906064/)
+      * Then take your protraits. Take at least 10 of each to get it right. In a single blog post, show all 40 images, the final 4 you selected and write a sentence for each of the other 36 to explain why you discarded them. [Post it here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-portraits)
+   * Partner up for the final. (Link to spreadsheet coming.)
+   * Prepare a short activity to try in class. [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
 
 ***
 
 ## Weeks 10-12: Final Project Development
-  * Week 10 In-Class Presentations
+  * Week 10 In-Class Play Tests
   * Week 11 In-Class User Testing
   * Week 12 Final Presentations
 
