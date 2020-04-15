@@ -247,10 +247,11 @@
 
 ## Weeks 10-12: Final Project Development
    * Week 10 In-Class Play Tests
+      * [Sending Still Frames](https://glitch.com/~stream-video-frames)
       * [Class Notes](https://docs.google.com/document/d/1yrdKFFMqyVaF1jwL5A1Bpl9Y1ViKJ02TgqWajJOxrf8/edit?usp=sharing)
       * Assignment: Create a draft of your final project to play-test next week. [Please post a description of what you are planning to do here by Sunday evening.](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-10-play-test) Include:
           * How many people you need for your play-test.
-          * How much time you think it will take to a) explain what people need to do and b) run it through once. 
+          * How much time you think it will take to a) explain what people need to do and b) run it through once.
    * Week 11 In-Class User Testing
    * Week 12 Final Presentations
 
