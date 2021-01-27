@@ -26,7 +26,7 @@
    * Is this a programming class?
    * What is a web server? Why do we need it?
 
-#### In-Class
+#### In Class
    * Exercise: Hands
    * [Overview of Syllabus](https://docs.google.com/document/d/1HUGW8AHLQWfe9PBG3U9xTQ8ag-Xrbw2YayktwWijf5s/edit?usp=sharing)
    * Tech Tutorials:
